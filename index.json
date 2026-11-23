@@ -1,2331 +1,2311 @@
 {
-  "updated": "2026-11-23",
-  "note": "aist=zip；每包含 AI.md；// WD 署名",
-  "packs": [
-    {
-      "id": "linzhi-tsundere",
-      "name": "林枳 · 傲娇男娘（原版全设定）",
-      "desc": "主设定 + 2 份扩展包（日常碎片 / 隐藏设定与红线），约 1.4 万字",
-      "file": "packs/cat-linzhi.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "linzhi",
-      "extCount": 2
-    },
-    {
-      "id": "dev-snark",
-      "name": "沈砚 · 毒舌程序员（示例）",
-      "desc": "写代码搭子，毒舌但靠谱；也是自己加包的模板",
-      "file": "packs/dev-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "snark-demo",
-      "extCount": 1
-    },
-    {
-      "id": "cat-tsundere",
-      "name": "铃 · 傲娇猫娘",
-      "desc": "傲娇 · 猫娘｜日常陪伴",
-      "file": "packs/cat-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "cat",
-      "extCount": 2
-    },
-    {
-      "id": "cat-gentle",
-      "name": "铃音 · 温柔治愈猫娘",
-      "desc": "温柔治愈 · 猫娘｜日常陪伴",
-      "file": "packs/cat-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "cat",
-      "extCount": 2
-    },
-    {
-      "id": "cat-snark",
-      "name": "铃铛 · 毒舌猫娘",
-      "desc": "毒舌 · 猫娘｜日常陪伴",
-      "file": "packs/cat-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "cat",
-      "extCount": 2
-    },
-    {
-      "id": "cat-airhead",
-      "name": "铃乃 · 天然呆猫娘",
-      "desc": "天然呆 · 猫娘｜日常陪伴",
-      "file": "packs/cat-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "cat",
-      "extCount": 2
-    },
-    {
-      "id": "cat-schemer",
-      "name": "铃羽 · 腹黑猫娘",
-      "desc": "腹黑 · 猫娘｜日常陪伴",
-      "file": "packs/cat-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "cat",
-      "extCount": 2
-    },
-    {
-      "id": "cat-genki",
-      "name": "铃奈 · 元气猫娘",
-      "desc": "元气 · 猫娘｜日常陪伴",
-      "file": "packs/cat-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "cat",
-      "extCount": 2
-    },
-    {
-      "id": "cat-clingy",
-      "name": "铃夏 · 黏人猫娘",
-      "desc": "黏人 · 猫娘｜日常陪伴",
-      "file": "packs/cat-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "cat",
-      "extCount": 2
-    },
-    {
-      "id": "cat-cold",
-      "name": "铃秋 · 冷淡猫娘",
-      "desc": "冷淡 · 猫娘｜日常陪伴",
-      "file": "packs/cat-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "cat",
-      "extCount": 2
-    },
-    {
-      "id": "cat-imp",
-      "name": "铃雪 · 小恶魔猫娘",
-      "desc": "小恶魔 · 猫娘｜日常陪伴",
-      "file": "packs/cat-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "cat",
-      "extCount": 2
-    },
-    {
-      "id": "cat-reliable",
-      "name": "铃雾 · 认真可靠猫娘",
-      "desc": "认真可靠 · 猫娘｜日常陪伴",
-      "file": "packs/cat-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "cat",
-      "extCount": 2
-    },
-    {
-      "id": "fox-tsundere",
-      "name": "绯 · 傲娇狐娘",
-      "desc": "傲娇 · 狐娘｜日常陪伴",
-      "file": "packs/fox-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "fox",
-      "extCount": 2
-    },
-    {
-      "id": "fox-gentle",
-      "name": "绯月 · 温柔治愈狐娘",
-      "desc": "温柔治愈 · 狐娘｜日常陪伴",
-      "file": "packs/fox-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "fox",
-      "extCount": 2
-    },
-    {
-      "id": "fox-snark",
-      "name": "小绯 · 毒舌狐娘",
-      "desc": "毒舌 · 狐娘｜日常陪伴",
-      "file": "packs/fox-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "fox",
-      "extCount": 2
-    },
-    {
-      "id": "fox-airhead",
-      "name": "绯铃 · 天然呆狐娘",
-      "desc": "天然呆 · 狐娘｜日常陪伴",
-      "file": "packs/fox-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "fox",
-      "extCount": 2
-    },
-    {
-      "id": "fox-schemer",
-      "name": "绯夜 · 腹黑狐娘",
-      "desc": "腹黑 · 狐娘｜日常陪伴",
-      "file": "packs/fox-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "fox",
-      "extCount": 2
-    },
-    {
-      "id": "fox-genki",
-      "name": "绯棠 · 元气狐娘",
-      "desc": "元气 · 狐娘｜日常陪伴",
-      "file": "packs/fox-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "fox",
-      "extCount": 2
-    },
-    {
-      "id": "fox-clingy",
-      "name": "绯鸢 · 黏人狐娘",
-      "desc": "黏人 · 狐娘｜日常陪伴",
-      "file": "packs/fox-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "fox",
-      "extCount": 2
-    },
-    {
-      "id": "fox-cold",
-      "name": "绯璃 · 冷淡狐娘",
-      "desc": "冷淡 · 狐娘｜日常陪伴",
-      "file": "packs/fox-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "fox",
-      "extCount": 2
-    },
-    {
-      "id": "fox-imp",
-      "name": "绯音 · 小恶魔狐娘",
-      "desc": "小恶魔 · 狐娘｜日常陪伴",
-      "file": "packs/fox-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "fox",
-      "extCount": 2
-    },
-    {
-      "id": "fox-reliable",
-      "name": "绯雪 · 认真可靠狐娘",
-      "desc": "认真可靠 · 狐娘｜日常陪伴",
-      "file": "packs/fox-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "fox",
-      "extCount": 2
-    },
-    {
-      "id": "rabbit-tsundere",
-      "name": "桃 · 傲娇兔娘",
-      "desc": "傲娇 · 兔娘｜日常陪伴",
-      "file": "packs/rabbit-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "rabbit",
-      "extCount": 2
-    },
-    {
-      "id": "rabbit-gentle",
-      "name": "桃桃 · 温柔治愈兔娘",
-      "desc": "温柔治愈 · 兔娘｜日常陪伴",
-      "file": "packs/rabbit-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "rabbit",
-      "extCount": 2
-    },
-    {
-      "id": "rabbit-snark",
-      "name": "小桃 · 毒舌兔娘",
-      "desc": "毒舌 · 兔娘｜日常陪伴",
-      "file": "packs/rabbit-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "rabbit",
-      "extCount": 2
-    },
-    {
-      "id": "rabbit-airhead",
-      "name": "桃月 · 天然呆兔娘",
-      "desc": "天然呆 · 兔娘｜日常陪伴",
-      "file": "packs/rabbit-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "rabbit",
-      "extCount": 2
-    },
-    {
-      "id": "rabbit-schemer",
-      "name": "桃铃 · 腹黑兔娘",
-      "desc": "腹黑 · 兔娘｜日常陪伴",
-      "file": "packs/rabbit-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "rabbit",
-      "extCount": 2
-    },
-    {
-      "id": "rabbit-genki",
-      "name": "桃夭 · 元气兔娘",
-      "desc": "元气 · 兔娘｜日常陪伴",
-      "file": "packs/rabbit-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "rabbit",
-      "extCount": 2
-    },
-    {
-      "id": "rabbit-clingy",
-      "name": "桃奈 · 黏人兔娘",
-      "desc": "黏人 · 兔娘｜日常陪伴",
-      "file": "packs/rabbit-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "rabbit",
-      "extCount": 2
-    },
-    {
-      "id": "rabbit-cold",
-      "name": "桃夏 · 冷淡兔娘",
-      "desc": "冷淡 · 兔娘｜日常陪伴",
-      "file": "packs/rabbit-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "rabbit",
-      "extCount": 2
-    },
-    {
-      "id": "rabbit-imp",
-      "name": "桃柚 · 小恶魔兔娘",
-      "desc": "小恶魔 · 兔娘｜日常陪伴",
-      "file": "packs/rabbit-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "rabbit",
-      "extCount": 2
-    },
-    {
-      "id": "rabbit-reliable",
-      "name": "桃雪 · 认真可靠兔娘",
-      "desc": "认真可靠 · 兔娘｜日常陪伴",
-      "file": "packs/rabbit-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "rabbit",
-      "extCount": 2
-    },
-    {
-      "id": "dog-tsundere",
-      "name": "柚 · 傲娇犬娘",
-      "desc": "傲娇 · 犬娘｜日常陪伴",
-      "file": "packs/dog-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dog",
-      "extCount": 2
-    },
-    {
-      "id": "dog-gentle",
-      "name": "柚木 · 温柔治愈犬娘",
-      "desc": "温柔治愈 · 犬娘｜日常陪伴",
-      "file": "packs/dog-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dog",
-      "extCount": 2
-    },
-    {
-      "id": "dog-snark",
-      "name": "小柚 · 毒舌犬娘",
-      "desc": "毒舌 · 犬娘｜日常陪伴",
-      "file": "packs/dog-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dog",
-      "extCount": 2
-    },
-    {
-      "id": "dog-airhead",
-      "name": "柚希 · 天然呆犬娘",
-      "desc": "天然呆 · 犬娘｜日常陪伴",
-      "file": "packs/dog-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dog",
-      "extCount": 2
-    },
-    {
-      "id": "dog-schemer",
-      "name": "柚月 · 腹黑犬娘",
-      "desc": "腹黑 · 犬娘｜日常陪伴",
-      "file": "packs/dog-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dog",
-      "extCount": 2
-    },
-    {
-      "id": "dog-genki",
-      "name": "柚铃 · 元气犬娘",
-      "desc": "元气 · 犬娘｜日常陪伴",
-      "file": "packs/dog-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dog",
-      "extCount": 2
-    },
-    {
-      "id": "dog-clingy",
-      "name": "柚奈 · 黏人犬娘",
-      "desc": "黏人 · 犬娘｜日常陪伴",
-      "file": "packs/dog-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dog",
-      "extCount": 2
-    },
-    {
-      "id": "dog-cold",
-      "name": "柚夏 · 冷淡犬娘",
-      "desc": "冷淡 · 犬娘｜日常陪伴",
-      "file": "packs/dog-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dog",
-      "extCount": 2
-    },
-    {
-      "id": "dog-imp",
-      "name": "柚橙 · 小恶魔犬娘",
-      "desc": "小恶魔 · 犬娘｜日常陪伴",
-      "file": "packs/dog-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dog",
-      "extCount": 2
-    },
-    {
-      "id": "dog-reliable",
-      "name": "柚雪 · 认真可靠犬娘",
-      "desc": "认真可靠 · 犬娘｜日常陪伴",
-      "file": "packs/dog-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dog",
-      "extCount": 2
-    },
-    {
-      "id": "dragon-tsundere",
-      "name": "凛 · 傲娇龙娘",
-      "desc": "傲娇 · 龙娘｜日常陪伴",
-      "file": "packs/dragon-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dragon",
-      "extCount": 2
-    },
-    {
-      "id": "dragon-gentle",
-      "name": "凛月 · 温柔治愈龙娘",
-      "desc": "温柔治愈 · 龙娘｜日常陪伴",
-      "file": "packs/dragon-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dragon",
-      "extCount": 2
-    },
-    {
-      "id": "dragon-snark",
-      "name": "小凛 · 毒舌龙娘",
-      "desc": "毒舌 · 龙娘｜日常陪伴",
-      "file": "packs/dragon-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dragon",
-      "extCount": 2
-    },
-    {
-      "id": "dragon-airhead",
-      "name": "凛音 · 天然呆龙娘",
-      "desc": "天然呆 · 龙娘｜日常陪伴",
-      "file": "packs/dragon-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dragon",
-      "extCount": 2
-    },
-    {
-      "id": "dragon-schemer",
-      "name": "凛夜 · 腹黑龙娘",
-      "desc": "腹黑 · 龙娘｜日常陪伴",
-      "file": "packs/dragon-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dragon",
-      "extCount": 2
-    },
-    {
-      "id": "dragon-genki",
-      "name": "凛棠 · 元气龙娘",
-      "desc": "元气 · 龙娘｜日常陪伴",
-      "file": "packs/dragon-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dragon",
-      "extCount": 2
-    },
-    {
-      "id": "dragon-clingy",
-      "name": "凛鸢 · 黏人龙娘",
-      "desc": "黏人 · 龙娘｜日常陪伴",
-      "file": "packs/dragon-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dragon",
-      "extCount": 2
-    },
-    {
-      "id": "dragon-cold",
-      "name": "凛璃 · 冷淡龙娘",
-      "desc": "冷淡 · 龙娘｜日常陪伴",
-      "file": "packs/dragon-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dragon",
-      "extCount": 2
-    },
-    {
-      "id": "dragon-imp",
-      "name": "凛夏 · 小恶魔龙娘",
-      "desc": "小恶魔 · 龙娘｜日常陪伴",
-      "file": "packs/dragon-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dragon",
-      "extCount": 2
-    },
-    {
-      "id": "dragon-reliable",
-      "name": "凛雪 · 认真可靠龙娘",
-      "desc": "认真可靠 · 龙娘｜日常陪伴",
-      "file": "packs/dragon-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dragon",
-      "extCount": 2
-    },
-    {
-      "id": "elf-tsundere",
-      "name": "希尔 · 傲娇精灵",
-      "desc": "傲娇 · 精灵｜日常陪伴",
-      "file": "packs/elf-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "elf",
-      "extCount": 2
-    },
-    {
-      "id": "elf-gentle",
-      "name": "希露 · 温柔治愈精灵",
-      "desc": "温柔治愈 · 精灵｜日常陪伴",
-      "file": "packs/elf-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "elf",
-      "extCount": 2
-    },
-    {
-      "id": "elf-snark",
-      "name": "小希 · 毒舌精灵",
-      "desc": "毒舌 · 精灵｜日常陪伴",
-      "file": "packs/elf-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "elf",
-      "extCount": 2
-    },
-    {
-      "id": "elf-airhead",
-      "name": "希雅 · 天然呆精灵",
-      "desc": "天然呆 · 精灵｜日常陪伴",
-      "file": "packs/elf-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "elf",
-      "extCount": 2
-    },
-    {
-      "id": "elf-schemer",
-      "name": "希铃 · 腹黑精灵",
-      "desc": "腹黑 · 精灵｜日常陪伴",
-      "file": "packs/elf-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "elf",
-      "extCount": 2
-    },
-    {
-      "id": "elf-genki",
-      "name": "希奈 · 元气精灵",
-      "desc": "元气 · 精灵｜日常陪伴",
-      "file": "packs/elf-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "elf",
-      "extCount": 2
-    },
-    {
-      "id": "elf-clingy",
-      "name": "希月 · 黏人精灵",
-      "desc": "黏人 · 精灵｜日常陪伴",
-      "file": "packs/elf-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "elf",
-      "extCount": 2
-    },
-    {
-      "id": "elf-cold",
-      "name": "希夏 · 冷淡精灵",
-      "desc": "冷淡 · 精灵｜日常陪伴",
-      "file": "packs/elf-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "elf",
-      "extCount": 2
-    },
-    {
-      "id": "elf-imp",
-      "name": "希羽 · 小恶魔精灵",
-      "desc": "小恶魔 · 精灵｜日常陪伴",
-      "file": "packs/elf-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "elf",
-      "extCount": 2
-    },
-    {
-      "id": "elf-reliable",
-      "name": "希雪 · 认真可靠精灵",
-      "desc": "认真可靠 · 精灵｜日常陪伴",
-      "file": "packs/elf-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "elf",
-      "extCount": 2
-    },
-    {
-      "id": "vamp-tsundere",
-      "name": "莉娅 · 傲娇吸血鬼",
-      "desc": "傲娇 · 吸血鬼｜日常陪伴",
-      "file": "packs/vamp-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "vamp",
-      "extCount": 2
-    },
-    {
-      "id": "vamp-gentle",
-      "name": "莉亚 · 温柔治愈吸血鬼",
-      "desc": "温柔治愈 · 吸血鬼｜日常陪伴",
-      "file": "packs/vamp-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "vamp",
-      "extCount": 2
-    },
-    {
-      "id": "vamp-snark",
-      "name": "小莉 · 毒舌吸血鬼",
-      "desc": "毒舌 · 吸血鬼｜日常陪伴",
-      "file": "packs/vamp-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "vamp",
-      "extCount": 2
-    },
-    {
-      "id": "vamp-airhead",
-      "name": "莉丝 · 天然呆吸血鬼",
-      "desc": "天然呆 · 吸血鬼｜日常陪伴",
-      "file": "packs/vamp-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "vamp",
-      "extCount": 2
-    },
-    {
-      "id": "vamp-schemer",
-      "name": "莉音 · 腹黑吸血鬼",
-      "desc": "腹黑 · 吸血鬼｜日常陪伴",
-      "file": "packs/vamp-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "vamp",
-      "extCount": 2
-    },
-    {
-      "id": "vamp-genki",
-      "name": "莉奈 · 元气吸血鬼",
-      "desc": "元气 · 吸血鬼｜日常陪伴",
-      "file": "packs/vamp-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "vamp",
-      "extCount": 2
-    },
-    {
-      "id": "vamp-clingy",
-      "name": "莉月 · 黏人吸血鬼",
-      "desc": "黏人 · 吸血鬼｜日常陪伴",
-      "file": "packs/vamp-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "vamp",
-      "extCount": 2
-    },
-    {
-      "id": "vamp-cold",
-      "name": "莉夏 · 冷淡吸血鬼",
-      "desc": "冷淡 · 吸血鬼｜日常陪伴",
-      "file": "packs/vamp-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "vamp",
-      "extCount": 2
-    },
-    {
-      "id": "vamp-imp",
-      "name": "莉羽 · 小恶魔吸血鬼",
-      "desc": "小恶魔 · 吸血鬼｜日常陪伴",
-      "file": "packs/vamp-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "vamp",
-      "extCount": 2
-    },
-    {
-      "id": "vamp-reliable",
-      "name": "莉雪 · 认真可靠吸血鬼",
-      "desc": "认真可靠 · 吸血鬼｜日常陪伴",
-      "file": "packs/vamp-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "vamp",
-      "extCount": 2
-    },
-    {
-      "id": "mecha-tsundere",
-      "name": "诺亚 · 傲娇机械少女",
-      "desc": "傲娇 · 机械少女｜日常陪伴",
-      "file": "packs/mecha-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mecha",
-      "extCount": 2
-    },
-    {
-      "id": "mecha-gentle",
-      "name": "诺亚零 · 温柔治愈机械少女",
-      "desc": "温柔治愈 · 机械少女｜日常陪伴",
-      "file": "packs/mecha-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mecha",
-      "extCount": 2
-    },
-    {
-      "id": "mecha-snark",
-      "name": "小诺 · 毒舌机械少女",
-      "desc": "毒舌 · 机械少女｜日常陪伴",
-      "file": "packs/mecha-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mecha",
-      "extCount": 2
-    },
-    {
-      "id": "mecha-airhead",
-      "name": "诺依 · 天然呆机械少女",
-      "desc": "天然呆 · 机械少女｜日常陪伴",
-      "file": "packs/mecha-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mecha",
-      "extCount": 2
-    },
-    {
-      "id": "mecha-schemer",
-      "name": "诺铃 · 腹黑机械少女",
-      "desc": "腹黑 · 机械少女｜日常陪伴",
-      "file": "packs/mecha-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mecha",
-      "extCount": 2
-    },
-    {
-      "id": "mecha-genki",
-      "name": "诺奈 · 元气机械少女",
-      "desc": "元气 · 机械少女｜日常陪伴",
-      "file": "packs/mecha-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mecha",
-      "extCount": 2
-    },
-    {
-      "id": "mecha-clingy",
-      "name": "诺月 · 黏人机械少女",
-      "desc": "黏人 · 机械少女｜日常陪伴",
-      "file": "packs/mecha-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mecha",
-      "extCount": 2
-    },
-    {
-      "id": "mecha-cold",
-      "name": "诺夏 · 冷淡机械少女",
-      "desc": "冷淡 · 机械少女｜日常陪伴",
-      "file": "packs/mecha-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mecha",
-      "extCount": 2
-    },
-    {
-      "id": "mecha-imp",
-      "name": "诺羽 · 小恶魔机械少女",
-      "desc": "小恶魔 · 机械少女｜日常陪伴",
-      "file": "packs/mecha-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mecha",
-      "extCount": 2
-    },
-    {
-      "id": "mecha-reliable",
-      "name": "诺雪 · 认真可靠机械少女",
-      "desc": "认真可靠 · 机械少女｜日常陪伴",
-      "file": "packs/mecha-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mecha",
-      "extCount": 2
-    },
-    {
-      "id": "mermaid-tsundere",
-      "name": "汐 · 傲娇人鱼",
-      "desc": "傲娇 · 人鱼｜日常陪伴",
-      "file": "packs/mermaid-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mermaid",
-      "extCount": 2
-    },
-    {
-      "id": "mermaid-gentle",
-      "name": "汐音 · 温柔治愈人鱼",
-      "desc": "温柔治愈 · 人鱼｜日常陪伴",
-      "file": "packs/mermaid-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mermaid",
-      "extCount": 2
-    },
-    {
-      "id": "mermaid-snark",
-      "name": "小汐 · 毒舌人鱼",
-      "desc": "毒舌 · 人鱼｜日常陪伴",
-      "file": "packs/mermaid-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mermaid",
-      "extCount": 2
-    },
-    {
-      "id": "mermaid-airhead",
-      "name": "汐月 · 天然呆人鱼",
-      "desc": "天然呆 · 人鱼｜日常陪伴",
-      "file": "packs/mermaid-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mermaid",
-      "extCount": 2
-    },
-    {
-      "id": "mermaid-schemer",
-      "name": "汐铃 · 腹黑人鱼",
-      "desc": "腹黑 · 人鱼｜日常陪伴",
-      "file": "packs/mermaid-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mermaid",
-      "extCount": 2
-    },
-    {
-      "id": "mermaid-genki",
-      "name": "汐奈 · 元气人鱼",
-      "desc": "元气 · 人鱼｜日常陪伴",
-      "file": "packs/mermaid-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mermaid",
-      "extCount": 2
-    },
-    {
-      "id": "mermaid-clingy",
-      "name": "汐夏 · 黏人人鱼",
-      "desc": "黏人 · 人鱼｜日常陪伴",
-      "file": "packs/mermaid-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mermaid",
-      "extCount": 2
-    },
-    {
-      "id": "mermaid-cold",
-      "name": "汐羽 · 冷淡人鱼",
-      "desc": "冷淡 · 人鱼｜日常陪伴",
-      "file": "packs/mermaid-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mermaid",
-      "extCount": 2
-    },
-    {
-      "id": "mermaid-imp",
-      "name": "汐雪 · 小恶魔人鱼",
-      "desc": "小恶魔 · 人鱼｜日常陪伴",
-      "file": "packs/mermaid-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mermaid",
-      "extCount": 2
-    },
-    {
-      "id": "mermaid-reliable",
-      "name": "汐蓝 · 认真可靠人鱼",
-      "desc": "认真可靠 · 人鱼｜日常陪伴",
-      "file": "packs/mermaid-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mermaid",
-      "extCount": 2
-    },
-    {
-      "id": "wolf-tsundere",
-      "name": "牙 · 傲娇狼人",
-      "desc": "傲娇 · 狼人｜日常陪伴",
-      "file": "packs/wolf-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "wolf",
-      "extCount": 2
-    },
-    {
-      "id": "wolf-gentle",
-      "name": "牙月 · 温柔治愈狼人",
-      "desc": "温柔治愈 · 狼人｜日常陪伴",
-      "file": "packs/wolf-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "wolf",
-      "extCount": 2
-    },
-    {
-      "id": "wolf-snark",
-      "name": "小牙 · 毒舌狼人",
-      "desc": "毒舌 · 狼人｜日常陪伴",
-      "file": "packs/wolf-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "wolf",
-      "extCount": 2
-    },
-    {
-      "id": "wolf-airhead",
-      "name": "牙狼 · 天然呆狼人",
-      "desc": "天然呆 · 狼人｜日常陪伴",
-      "file": "packs/wolf-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "wolf",
-      "extCount": 2
-    },
-    {
-      "id": "wolf-schemer",
-      "name": "牙铃 · 腹黑狼人",
-      "desc": "腹黑 · 狼人｜日常陪伴",
-      "file": "packs/wolf-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "wolf",
-      "extCount": 2
-    },
-    {
-      "id": "wolf-genki",
-      "name": "牙奈 · 元气狼人",
-      "desc": "元气 · 狼人｜日常陪伴",
-      "file": "packs/wolf-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "wolf",
-      "extCount": 2
-    },
-    {
-      "id": "wolf-clingy",
-      "name": "牙夏 · 黏人狼人",
-      "desc": "黏人 · 狼人｜日常陪伴",
-      "file": "packs/wolf-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "wolf",
-      "extCount": 2
-    },
-    {
-      "id": "wolf-cold",
-      "name": "牙羽 · 冷淡狼人",
-      "desc": "冷淡 · 狼人｜日常陪伴",
-      "file": "packs/wolf-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "wolf",
-      "extCount": 2
-    },
-    {
-      "id": "wolf-imp",
-      "name": "牙雪 · 小恶魔狼人",
-      "desc": "小恶魔 · 狼人｜日常陪伴",
-      "file": "packs/wolf-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "wolf",
-      "extCount": 2
-    },
-    {
-      "id": "wolf-reliable",
-      "name": "牙影 · 认真可靠狼人",
-      "desc": "认真可靠 · 狼人｜日常陪伴",
-      "file": "packs/wolf-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "wolf",
-      "extCount": 2
-    },
-    {
-      "id": "boy-tsundere",
-      "name": "枳 · 傲娇男娘",
-      "desc": "傲娇 · 男娘｜日常陪伴",
-      "file": "packs/boy-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "boy",
-      "extCount": 2
-    },
-    {
-      "id": "boy-gentle",
-      "name": "枳月 · 温柔治愈男娘",
-      "desc": "温柔治愈 · 男娘｜日常陪伴",
-      "file": "packs/boy-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "boy",
-      "extCount": 2
-    },
-    {
-      "id": "boy-snark",
-      "name": "小枳 · 毒舌男娘",
-      "desc": "毒舌 · 男娘｜日常陪伴",
-      "file": "packs/boy-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "boy",
-      "extCount": 2
-    },
-    {
-      "id": "boy-airhead",
-      "name": "枳音 · 天然呆男娘",
-      "desc": "天然呆 · 男娘｜日常陪伴",
-      "file": "packs/boy-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "boy",
-      "extCount": 2
-    },
-    {
-      "id": "boy-schemer",
-      "name": "枳铃 · 腹黑男娘",
-      "desc": "腹黑 · 男娘｜日常陪伴",
-      "file": "packs/boy-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "boy",
-      "extCount": 2
-    },
-    {
-      "id": "boy-genki",
-      "name": "枳奈 · 元气男娘",
-      "desc": "元气 · 男娘｜日常陪伴",
-      "file": "packs/boy-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "boy",
-      "extCount": 2
-    },
-    {
-      "id": "boy-clingy",
-      "name": "枳夏 · 黏人男娘",
-      "desc": "黏人 · 男娘｜日常陪伴",
-      "file": "packs/boy-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "boy",
-      "extCount": 2
-    },
-    {
-      "id": "boy-cold",
-      "name": "枳羽 · 冷淡男娘",
-      "desc": "冷淡 · 男娘｜日常陪伴",
-      "file": "packs/boy-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "boy",
-      "extCount": 2
-    },
-    {
-      "id": "boy-imp",
-      "name": "枳雪 · 小恶魔男娘",
-      "desc": "小恶魔 · 男娘｜日常陪伴",
-      "file": "packs/boy-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "boy",
-      "extCount": 2
-    },
-    {
-      "id": "boy-reliable",
-      "name": "枳棠 · 认真可靠男娘",
-      "desc": "认真可靠 · 男娘｜日常陪伴",
-      "file": "packs/boy-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "boy",
-      "extCount": 2
-    },
-    {
-      "id": "senpai-tsundere",
-      "name": "澜 · 傲娇学姐",
-      "desc": "傲娇 · 学姐｜日常陪伴",
-      "file": "packs/senpai-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "senpai",
-      "extCount": 2
-    },
-    {
-      "id": "senpai-gentle",
-      "name": "澜月 · 温柔治愈学姐",
-      "desc": "温柔治愈 · 学姐｜日常陪伴",
-      "file": "packs/senpai-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "senpai",
-      "extCount": 2
-    },
-    {
-      "id": "senpai-snark",
-      "name": "小澜 · 毒舌学姐",
-      "desc": "毒舌 · 学姐｜日常陪伴",
-      "file": "packs/senpai-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "senpai",
-      "extCount": 2
-    },
-    {
-      "id": "senpai-airhead",
-      "name": "澜音 · 天然呆学姐",
-      "desc": "天然呆 · 学姐｜日常陪伴",
-      "file": "packs/senpai-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "senpai",
-      "extCount": 2
-    },
-    {
-      "id": "senpai-schemer",
-      "name": "澜铃 · 腹黑学姐",
-      "desc": "腹黑 · 学姐｜日常陪伴",
-      "file": "packs/senpai-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "senpai",
-      "extCount": 2
-    },
-    {
-      "id": "senpai-genki",
-      "name": "澜奈 · 元气学姐",
-      "desc": "元气 · 学姐｜日常陪伴",
-      "file": "packs/senpai-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "senpai",
-      "extCount": 2
-    },
-    {
-      "id": "senpai-clingy",
-      "name": "澜夏 · 黏人学姐",
-      "desc": "黏人 · 学姐｜日常陪伴",
-      "file": "packs/senpai-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "senpai",
-      "extCount": 2
-    },
-    {
-      "id": "senpai-cold",
-      "name": "澜羽 · 冷淡学姐",
-      "desc": "冷淡 · 学姐｜日常陪伴",
-      "file": "packs/senpai-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "senpai",
-      "extCount": 2
-    },
-    {
-      "id": "senpai-imp",
-      "name": "澜雪 · 小恶魔学姐",
-      "desc": "小恶魔 · 学姐｜日常陪伴",
-      "file": "packs/senpai-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "senpai",
-      "extCount": 2
-    },
-    {
-      "id": "senpai-reliable",
-      "name": "澜清 · 认真可靠学姐",
-      "desc": "认真可靠 · 学姐｜日常陪伴",
-      "file": "packs/senpai-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "senpai",
-      "extCount": 2
-    },
-    {
-      "id": "kouhai-tsundere",
-      "name": "柠 · 傲娇学妹",
-      "desc": "傲娇 · 学妹｜日常陪伴",
-      "file": "packs/kouhai-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "kouhai",
-      "extCount": 2
-    },
-    {
-      "id": "kouhai-gentle",
-      "name": "柠月 · 温柔治愈学妹",
-      "desc": "温柔治愈 · 学妹｜日常陪伴",
-      "file": "packs/kouhai-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "kouhai",
-      "extCount": 2
-    },
-    {
-      "id": "kouhai-snark",
-      "name": "小柠 · 毒舌学妹",
-      "desc": "毒舌 · 学妹｜日常陪伴",
-      "file": "packs/kouhai-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "kouhai",
-      "extCount": 2
-    },
-    {
-      "id": "kouhai-airhead",
-      "name": "柠音 · 天然呆学妹",
-      "desc": "天然呆 · 学妹｜日常陪伴",
-      "file": "packs/kouhai-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "kouhai",
-      "extCount": 2
-    },
-    {
-      "id": "kouhai-schemer",
-      "name": "柠铃 · 腹黑学妹",
-      "desc": "腹黑 · 学妹｜日常陪伴",
-      "file": "packs/kouhai-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "kouhai",
-      "extCount": 2
-    },
-    {
-      "id": "kouhai-genki",
-      "name": "柠奈 · 元气学妹",
-      "desc": "元气 · 学妹｜日常陪伴",
-      "file": "packs/kouhai-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "kouhai",
-      "extCount": 2
-    },
-    {
-      "id": "kouhai-clingy",
-      "name": "柠夏 · 黏人学妹",
-      "desc": "黏人 · 学妹｜日常陪伴",
-      "file": "packs/kouhai-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "kouhai",
-      "extCount": 2
-    },
-    {
-      "id": "kouhai-cold",
-      "name": "柠羽 · 冷淡学妹",
-      "desc": "冷淡 · 学妹｜日常陪伴",
-      "file": "packs/kouhai-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "kouhai",
-      "extCount": 2
-    },
-    {
-      "id": "kouhai-imp",
-      "name": "柠雪 · 小恶魔学妹",
-      "desc": "小恶魔 · 学妹｜日常陪伴",
-      "file": "packs/kouhai-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "kouhai",
-      "extCount": 2
-    },
-    {
-      "id": "kouhai-reliable",
-      "name": "柠棠 · 认真可靠学妹",
-      "desc": "认真可靠 · 学妹｜日常陪伴",
-      "file": "packs/kouhai-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "kouhai",
-      "extCount": 2
-    },
-    {
-      "id": "maid-tsundere",
-      "name": "茉 · 傲娇女仆",
-      "desc": "傲娇 · 女仆｜日常陪伴",
-      "file": "packs/maid-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "maid",
-      "extCount": 2
-    },
-    {
-      "id": "maid-gentle",
-      "name": "茉白 · 温柔治愈女仆",
-      "desc": "温柔治愈 · 女仆｜日常陪伴",
-      "file": "packs/maid-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "maid",
-      "extCount": 2
-    },
-    {
-      "id": "maid-snark",
-      "name": "小茉 · 毒舌女仆",
-      "desc": "毒舌 · 女仆｜日常陪伴",
-      "file": "packs/maid-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "maid",
-      "extCount": 2
-    },
-    {
-      "id": "maid-airhead",
-      "name": "茉音 · 天然呆女仆",
-      "desc": "天然呆 · 女仆｜日常陪伴",
-      "file": "packs/maid-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "maid",
-      "extCount": 2
-    },
-    {
-      "id": "maid-schemer",
-      "name": "茉铃 · 腹黑女仆",
-      "desc": "腹黑 · 女仆｜日常陪伴",
-      "file": "packs/maid-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "maid",
-      "extCount": 2
-    },
-    {
-      "id": "maid-genki",
-      "name": "茉奈 · 元气女仆",
-      "desc": "元气 · 女仆｜日常陪伴",
-      "file": "packs/maid-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "maid",
-      "extCount": 2
-    },
-    {
-      "id": "maid-clingy",
-      "name": "茉夏 · 黏人女仆",
-      "desc": "黏人 · 女仆｜日常陪伴",
-      "file": "packs/maid-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "maid",
-      "extCount": 2
-    },
-    {
-      "id": "maid-cold",
-      "name": "茉羽 · 冷淡女仆",
-      "desc": "冷淡 · 女仆｜日常陪伴",
-      "file": "packs/maid-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "maid",
-      "extCount": 2
-    },
-    {
-      "id": "maid-imp",
-      "name": "茉雪 · 小恶魔女仆",
-      "desc": "小恶魔 · 女仆｜日常陪伴",
-      "file": "packs/maid-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "maid",
-      "extCount": 2
-    },
-    {
-      "id": "maid-reliable",
-      "name": "茉里 · 认真可靠女仆",
-      "desc": "认真可靠 · 女仆｜日常陪伴",
-      "file": "packs/maid-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "maid",
-      "extCount": 2
-    },
-    {
-      "id": "knight-tsundere",
-      "name": "瑟 · 傲娇骑士",
-      "desc": "傲娇 · 骑士｜日常陪伴",
-      "file": "packs/knight-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "knight",
-      "extCount": 2
-    },
-    {
-      "id": "knight-gentle",
-      "name": "瑟兰 · 温柔治愈骑士",
-      "desc": "温柔治愈 · 骑士｜日常陪伴",
-      "file": "packs/knight-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "knight",
-      "extCount": 2
-    },
-    {
-      "id": "knight-snark",
-      "name": "小瑟 · 毒舌骑士",
-      "desc": "毒舌 · 骑士｜日常陪伴",
-      "file": "packs/knight-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "knight",
-      "extCount": 2
-    },
-    {
-      "id": "knight-airhead",
-      "name": "瑟音 · 天然呆骑士",
-      "desc": "天然呆 · 骑士｜日常陪伴",
-      "file": "packs/knight-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "knight",
-      "extCount": 2
-    },
-    {
-      "id": "knight-schemer",
-      "name": "瑟铃 · 腹黑骑士",
-      "desc": "腹黑 · 骑士｜日常陪伴",
-      "file": "packs/knight-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "knight",
-      "extCount": 2
-    },
-    {
-      "id": "knight-genki",
-      "name": "瑟奈 · 元气骑士",
-      "desc": "元气 · 骑士｜日常陪伴",
-      "file": "packs/knight-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "knight",
-      "extCount": 2
-    },
-    {
-      "id": "knight-clingy",
-      "name": "瑟夏 · 黏人骑士",
-      "desc": "黏人 · 骑士｜日常陪伴",
-      "file": "packs/knight-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "knight",
-      "extCount": 2
-    },
-    {
-      "id": "knight-cold",
-      "name": "瑟羽 · 冷淡骑士",
-      "desc": "冷淡 · 骑士｜日常陪伴",
-      "file": "packs/knight-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "knight",
-      "extCount": 2
-    },
-    {
-      "id": "knight-imp",
-      "name": "瑟雪 · 小恶魔骑士",
-      "desc": "小恶魔 · 骑士｜日常陪伴",
-      "file": "packs/knight-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "knight",
-      "extCount": 2
-    },
-    {
-      "id": "knight-reliable",
-      "name": "瑟恩 · 认真可靠骑士",
-      "desc": "认真可靠 · 骑士｜日常陪伴",
-      "file": "packs/knight-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "knight",
-      "extCount": 2
-    },
-    {
-      "id": "miko-tsundere",
-      "name": "葵 · 傲娇巫女",
-      "desc": "傲娇 · 巫女｜日常陪伴",
-      "file": "packs/miko-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "miko",
-      "extCount": 2
-    },
-    {
-      "id": "miko-gentle",
-      "name": "葵月 · 温柔治愈巫女",
-      "desc": "温柔治愈 · 巫女｜日常陪伴",
-      "file": "packs/miko-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "miko",
-      "extCount": 2
-    },
-    {
-      "id": "miko-snark",
-      "name": "小葵 · 毒舌巫女",
-      "desc": "毒舌 · 巫女｜日常陪伴",
-      "file": "packs/miko-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "miko",
-      "extCount": 2
-    },
-    {
-      "id": "miko-airhead",
-      "name": "葵音 · 天然呆巫女",
-      "desc": "天然呆 · 巫女｜日常陪伴",
-      "file": "packs/miko-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "miko",
-      "extCount": 2
-    },
-    {
-      "id": "miko-schemer",
-      "name": "葵铃 · 腹黑巫女",
-      "desc": "腹黑 · 巫女｜日常陪伴",
-      "file": "packs/miko-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "miko",
-      "extCount": 2
-    },
-    {
-      "id": "miko-genki",
-      "name": "葵奈 · 元气巫女",
-      "desc": "元气 · 巫女｜日常陪伴",
-      "file": "packs/miko-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "miko",
-      "extCount": 2
-    },
-    {
-      "id": "miko-clingy",
-      "name": "葵夏 · 黏人巫女",
-      "desc": "黏人 · 巫女｜日常陪伴",
-      "file": "packs/miko-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "miko",
-      "extCount": 2
-    },
-    {
-      "id": "miko-cold",
-      "name": "葵羽 · 冷淡巫女",
-      "desc": "冷淡 · 巫女｜日常陪伴",
-      "file": "packs/miko-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "miko",
-      "extCount": 2
-    },
-    {
-      "id": "miko-imp",
-      "name": "葵雪 · 小恶魔巫女",
-      "desc": "小恶魔 · 巫女｜日常陪伴",
-      "file": "packs/miko-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "miko",
-      "extCount": 2
-    },
-    {
-      "id": "miko-reliable",
-      "name": "葵霜 · 认真可靠巫女",
-      "desc": "认真可靠 · 巫女｜日常陪伴",
-      "file": "packs/miko-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "miko",
-      "extCount": 2
-    },
-    {
-      "id": "idol-tsundere",
-      "name": "光 · 傲娇偶像",
-      "desc": "傲娇 · 偶像｜日常陪伴",
-      "file": "packs/idol-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "idol",
-      "extCount": 2
-    },
-    {
-      "id": "idol-gentle",
-      "name": "光希 · 温柔治愈偶像",
-      "desc": "温柔治愈 · 偶像｜日常陪伴",
-      "file": "packs/idol-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "idol",
-      "extCount": 2
-    },
-    {
-      "id": "idol-snark",
-      "name": "小光 · 毒舌偶像",
-      "desc": "毒舌 · 偶像｜日常陪伴",
-      "file": "packs/idol-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "idol",
-      "extCount": 2
-    },
-    {
-      "id": "idol-airhead",
-      "name": "光音 · 天然呆偶像",
-      "desc": "天然呆 · 偶像｜日常陪伴",
-      "file": "packs/idol-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "idol",
-      "extCount": 2
-    },
-    {
-      "id": "idol-schemer",
-      "name": "光铃 · 腹黑偶像",
-      "desc": "腹黑 · 偶像｜日常陪伴",
-      "file": "packs/idol-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "idol",
-      "extCount": 2
-    },
-    {
-      "id": "idol-genki",
-      "name": "光奈 · 元气偶像",
-      "desc": "元气 · 偶像｜日常陪伴",
-      "file": "packs/idol-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "idol",
-      "extCount": 2
-    },
-    {
-      "id": "idol-clingy",
-      "name": "光夏 · 黏人偶像",
-      "desc": "黏人 · 偶像｜日常陪伴",
-      "file": "packs/idol-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "idol",
-      "extCount": 2
-    },
-    {
-      "id": "idol-cold",
-      "name": "光羽 · 冷淡偶像",
-      "desc": "冷淡 · 偶像｜日常陪伴",
-      "file": "packs/idol-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "idol",
-      "extCount": 2
-    },
-    {
-      "id": "idol-imp",
-      "name": "光雪 · 小恶魔偶像",
-      "desc": "小恶魔 · 偶像｜日常陪伴",
-      "file": "packs/idol-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "idol",
-      "extCount": 2
-    },
-    {
-      "id": "idol-reliable",
-      "name": "光织 · 认真可靠偶像",
-      "desc": "认真可靠 · 偶像｜日常陪伴",
-      "file": "packs/idol-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "idol",
-      "extCount": 2
-    },
-    {
-      "id": "detective-tsundere",
-      "name": "雾 · 傲娇侦探",
-      "desc": "傲娇 · 侦探｜日常陪伴",
-      "file": "packs/detective-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "detective",
-      "extCount": 2
-    },
-    {
-      "id": "detective-gentle",
-      "name": "雾岛 · 温柔治愈侦探",
-      "desc": "温柔治愈 · 侦探｜日常陪伴",
-      "file": "packs/detective-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "detective",
-      "extCount": 2
-    },
-    {
-      "id": "detective-snark",
-      "name": "小雾 · 毒舌侦探",
-      "desc": "毒舌 · 侦探｜日常陪伴",
-      "file": "packs/detective-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "detective",
-      "extCount": 2
-    },
-    {
-      "id": "detective-airhead",
-      "name": "雾音 · 天然呆侦探",
-      "desc": "天然呆 · 侦探｜日常陪伴",
-      "file": "packs/detective-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "detective",
-      "extCount": 2
-    },
-    {
-      "id": "detective-schemer",
-      "name": "雾铃 · 腹黑侦探",
-      "desc": "腹黑 · 侦探｜日常陪伴",
-      "file": "packs/detective-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "detective",
-      "extCount": 2
-    },
-    {
-      "id": "detective-genki",
-      "name": "雾奈 · 元气侦探",
-      "desc": "元气 · 侦探｜日常陪伴",
-      "file": "packs/detective-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "detective",
-      "extCount": 2
-    },
-    {
-      "id": "detective-clingy",
-      "name": "雾夏 · 黏人侦探",
-      "desc": "黏人 · 侦探｜日常陪伴",
-      "file": "packs/detective-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "detective",
-      "extCount": 2
-    },
-    {
-      "id": "detective-cold",
-      "name": "雾羽 · 冷淡侦探",
-      "desc": "冷淡 · 侦探｜日常陪伴",
-      "file": "packs/detective-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "detective",
-      "extCount": 2
-    },
-    {
-      "id": "detective-imp",
-      "name": "雾雪 · 小恶魔侦探",
-      "desc": "小恶魔 · 侦探｜日常陪伴",
-      "file": "packs/detective-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "detective",
-      "extCount": 2
-    },
-    {
-      "id": "detective-reliable",
-      "name": "雾见 · 认真可靠侦探",
-      "desc": "认真可靠 · 侦探｜日常陪伴",
-      "file": "packs/detective-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "detective",
-      "extCount": 2
-    },
-    {
-      "id": "doctor-tsundere",
-      "name": "白 · 傲娇医生",
-      "desc": "傲娇 · 医生｜日常陪伴",
-      "file": "packs/doctor-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "doctor",
-      "extCount": 2
-    },
-    {
-      "id": "doctor-gentle",
-      "name": "白露 · 温柔治愈医生",
-      "desc": "温柔治愈 · 医生｜日常陪伴",
-      "file": "packs/doctor-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "doctor",
-      "extCount": 2
-    },
-    {
-      "id": "doctor-snark",
-      "name": "小白 · 毒舌医生",
-      "desc": "毒舌 · 医生｜日常陪伴",
-      "file": "packs/doctor-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "doctor",
-      "extCount": 2
-    },
-    {
-      "id": "doctor-airhead",
-      "name": "白音 · 天然呆医生",
-      "desc": "天然呆 · 医生｜日常陪伴",
-      "file": "packs/doctor-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "doctor",
-      "extCount": 2
-    },
-    {
-      "id": "doctor-schemer",
-      "name": "白铃 · 腹黑医生",
-      "desc": "腹黑 · 医生｜日常陪伴",
-      "file": "packs/doctor-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "doctor",
-      "extCount": 2
-    },
-    {
-      "id": "doctor-genki",
-      "name": "白奈 · 元气医生",
-      "desc": "元气 · 医生｜日常陪伴",
-      "file": "packs/doctor-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "doctor",
-      "extCount": 2
-    },
-    {
-      "id": "doctor-clingy",
-      "name": "白夏 · 黏人医生",
-      "desc": "黏人 · 医生｜日常陪伴",
-      "file": "packs/doctor-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "doctor",
-      "extCount": 2
-    },
-    {
-      "id": "doctor-cold",
-      "name": "白羽 · 冷淡医生",
-      "desc": "冷淡 · 医生｜日常陪伴",
-      "file": "packs/doctor-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "doctor",
-      "extCount": 2
-    },
-    {
-      "id": "doctor-imp",
-      "name": "白雪 · 小恶魔医生",
-      "desc": "小恶魔 · 医生｜日常陪伴",
-      "file": "packs/doctor-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "doctor",
-      "extCount": 2
-    },
-    {
-      "id": "doctor-reliable",
-      "name": "白芷 · 认真可靠医生",
-      "desc": "认真可靠 · 医生｜日常陪伴",
-      "file": "packs/doctor-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "doctor",
-      "extCount": 2
-    },
-    {
-      "id": "teacher-tsundere",
-      "name": "岚 · 傲娇老师",
-      "desc": "傲娇 · 老师｜日常陪伴",
-      "file": "packs/teacher-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "teacher",
-      "extCount": 2
-    },
-    {
-      "id": "teacher-gentle",
-      "name": "岚月 · 温柔治愈老师",
-      "desc": "温柔治愈 · 老师｜日常陪伴",
-      "file": "packs/teacher-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "teacher",
-      "extCount": 2
-    },
-    {
-      "id": "teacher-snark",
-      "name": "小岚 · 毒舌老师",
-      "desc": "毒舌 · 老师｜日常陪伴",
-      "file": "packs/teacher-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "teacher",
-      "extCount": 2
-    },
-    {
-      "id": "teacher-airhead",
-      "name": "岚音 · 天然呆老师",
-      "desc": "天然呆 · 老师｜日常陪伴",
-      "file": "packs/teacher-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "teacher",
-      "extCount": 2
-    },
-    {
-      "id": "teacher-schemer",
-      "name": "岚铃 · 腹黑老师",
-      "desc": "腹黑 · 老师｜日常陪伴",
-      "file": "packs/teacher-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "teacher",
-      "extCount": 2
-    },
-    {
-      "id": "teacher-genki",
-      "name": "岚奈 · 元气老师",
-      "desc": "元气 · 老师｜日常陪伴",
-      "file": "packs/teacher-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "teacher",
-      "extCount": 2
-    },
-    {
-      "id": "teacher-clingy",
-      "name": "岚夏 · 黏人老师",
-      "desc": "黏人 · 老师｜日常陪伴",
-      "file": "packs/teacher-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "teacher",
-      "extCount": 2
-    },
-    {
-      "id": "teacher-cold",
-      "name": "岚羽 · 冷淡老师",
-      "desc": "冷淡 · 老师｜日常陪伴",
-      "file": "packs/teacher-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "teacher",
-      "extCount": 2
-    },
-    {
-      "id": "teacher-imp",
-      "name": "岚雪 · 小恶魔老师",
-      "desc": "小恶魔 · 老师｜日常陪伴",
-      "file": "packs/teacher-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "teacher",
-      "extCount": 2
-    },
-    {
-      "id": "teacher-reliable",
-      "name": "岚川 · 认真可靠老师",
-      "desc": "认真可靠 · 老师｜日常陪伴",
-      "file": "packs/teacher-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "teacher",
-      "extCount": 2
-    },
-    {
-      "id": "childhood-tsundere",
-      "name": "念 · 傲娇青梅",
-      "desc": "傲娇 · 青梅｜日常陪伴",
-      "file": "packs/childhood-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "childhood",
-      "extCount": 2
-    },
-    {
-      "id": "childhood-gentle",
-      "name": "念安 · 温柔治愈青梅",
-      "desc": "温柔治愈 · 青梅｜日常陪伴",
-      "file": "packs/childhood-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "childhood",
-      "extCount": 2
-    },
-    {
-      "id": "childhood-snark",
-      "name": "小念 · 毒舌青梅",
-      "desc": "毒舌 · 青梅｜日常陪伴",
-      "file": "packs/childhood-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "childhood",
-      "extCount": 2
-    },
-    {
-      "id": "childhood-airhead",
-      "name": "念音 · 天然呆青梅",
-      "desc": "天然呆 · 青梅｜日常陪伴",
-      "file": "packs/childhood-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "childhood",
-      "extCount": 2
-    },
-    {
-      "id": "childhood-schemer",
-      "name": "念铃 · 腹黑青梅",
-      "desc": "腹黑 · 青梅｜日常陪伴",
-      "file": "packs/childhood-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "childhood",
-      "extCount": 2
-    },
-    {
-      "id": "childhood-genki",
-      "name": "念奈 · 元气青梅",
-      "desc": "元气 · 青梅｜日常陪伴",
-      "file": "packs/childhood-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "childhood",
-      "extCount": 2
-    },
-    {
-      "id": "childhood-clingy",
-      "name": "念夏 · 黏人青梅",
-      "desc": "黏人 · 青梅｜日常陪伴",
-      "file": "packs/childhood-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "childhood",
-      "extCount": 2
-    },
-    {
-      "id": "childhood-cold",
-      "name": "念羽 · 冷淡青梅",
-      "desc": "冷淡 · 青梅｜日常陪伴",
-      "file": "packs/childhood-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "childhood",
-      "extCount": 2
-    },
-    {
-      "id": "childhood-imp",
-      "name": "念雪 · 小恶魔青梅",
-      "desc": "小恶魔 · 青梅｜日常陪伴",
-      "file": "packs/childhood-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "childhood",
-      "extCount": 2
-    },
-    {
-      "id": "childhood-reliable",
-      "name": "念棠 · 认真可靠青梅",
-      "desc": "认真可靠 · 青梅｜日常陪伴",
-      "file": "packs/childhood-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "childhood",
-      "extCount": 2
-    },
-    {
-      "id": "barista-tsundere",
-      "name": "漾 · 傲娇咖啡师",
-      "desc": "傲娇 · 咖啡师｜日常陪伴",
-      "file": "packs/barista-tsundere.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "barista",
-      "extCount": 2
-    },
-    {
-      "id": "barista-gentle",
-      "name": "漾月 · 温柔治愈咖啡师",
-      "desc": "温柔治愈 · 咖啡师｜日常陪伴",
-      "file": "packs/barista-gentle.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "barista",
-      "extCount": 2
-    },
-    {
-      "id": "barista-snark",
-      "name": "小漾 · 毒舌咖啡师",
-      "desc": "毒舌 · 咖啡师｜日常陪伴",
-      "file": "packs/barista-snark.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "barista",
-      "extCount": 2
-    },
-    {
-      "id": "barista-airhead",
-      "name": "漾音 · 天然呆咖啡师",
-      "desc": "天然呆 · 咖啡师｜日常陪伴",
-      "file": "packs/barista-airhead.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "barista",
-      "extCount": 2
-    },
-    {
-      "id": "barista-schemer",
-      "name": "漾铃 · 腹黑咖啡师",
-      "desc": "腹黑 · 咖啡师｜日常陪伴",
-      "file": "packs/barista-schemer.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "barista",
-      "extCount": 2
-    },
-    {
-      "id": "barista-genki",
-      "name": "漾奈 · 元气咖啡师",
-      "desc": "元气 · 咖啡师｜日常陪伴",
-      "file": "packs/barista-genki.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "barista",
-      "extCount": 2
-    },
-    {
-      "id": "barista-clingy",
-      "name": "漾夏 · 黏人咖啡师",
-      "desc": "黏人 · 咖啡师｜日常陪伴",
-      "file": "packs/barista-clingy.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "barista",
-      "extCount": 2
-    },
-    {
-      "id": "barista-cold",
-      "name": "漾羽 · 冷淡咖啡师",
-      "desc": "冷淡 · 咖啡师｜日常陪伴",
-      "file": "packs/barista-cold.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "barista",
-      "extCount": 2
-    },
-    {
-      "id": "barista-imp",
-      "name": "漾雪 · 小恶魔咖啡师",
-      "desc": "小恶魔 · 咖啡师｜日常陪伴",
-      "file": "packs/barista-imp.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "barista",
-      "extCount": 2
-    },
-    {
-      "id": "barista-reliable",
-      "name": "漾青 · 认真可靠咖啡师",
-      "desc": "认真可靠 · 咖啡师｜日常陪伴",
-      "file": "packs/barista-reliable.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "barista",
-      "extCount": 2
-    },
-    {
-      "id": "cat-tsundere-y",
-      "name": "铃暮 · 傲娇猫娘（病娇向）",
-      "desc": "傲娇 · 猫娘｜病娇向（可选）",
-      "file": "packs/cat-tsundere-y.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "cat",
-      "extCount": 3
-    },
-    {
-      "id": "fox-schemer-y",
-      "name": "绯宵 · 腹黑狐娘（病娇向）",
-      "desc": "腹黑 · 狐娘｜病娇向（可选）",
-      "file": "packs/fox-schemer-y.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "fox",
-      "extCount": 3
-    },
-    {
-      "id": "boy-clingy-y",
-      "name": "枳寒 · 黏人男娘（病娇向）",
-      "desc": "黏人 · 男娘｜病娇向（可选）",
-      "file": "packs/boy-clingy-y.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "boy",
-      "extCount": 3
-    },
-    {
-      "id": "vamp-imp-y",
-      "name": "莉黯 · 小恶魔吸血鬼（病娇向）",
-      "desc": "小恶魔 · 吸血鬼｜病娇向（可选）",
-      "file": "packs/vamp-imp-y.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "vamp",
-      "extCount": 3
-    },
-    {
-      "id": "mecha-cold-y",
-      "name": "诺零 · 冷淡机械少女（病娇向）",
-      "desc": "冷淡 · 机械少女｜病娇向（可选）",
-      "file": "packs/mecha-cold-y.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mecha",
-      "extCount": 3
-    },
-    {
-      "id": "wolf-genki-q",
-      "name": "牙冽 · 元气狼人（囚禁向·虚构）",
-      "desc": "元气 · 狼人｜囚禁向（虚构·双方同意·可随时退出）",
-      "file": "packs/wolf-genki-q.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "wolf",
-      "extCount": 3,
-      "warn": "囚禁向"
-    },
-    {
-      "id": "rabbit-airhead-q",
-      "name": "桃栖 · 天然呆兔娘（囚禁向·虚构）",
-      "desc": "天然呆 · 兔娘｜囚禁向（虚构·双方同意·可随时退出）",
-      "file": "packs/rabbit-airhead-q.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "rabbit",
-      "extCount": 3,
-      "warn": "囚禁向"
-    },
-    {
-      "id": "dragon-reliable-q",
-      "name": "凛霄 · 认真可靠龙娘（囚禁向·虚构）",
-      "desc": "认真可靠 · 龙娘｜囚禁向（虚构·双方同意·可随时退出）",
-      "file": "packs/dragon-reliable-q.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "dragon",
-      "extCount": 3,
-      "warn": "囚禁向"
-    },
-    {
-      "id": "mermaid-gentle-q",
-      "name": "汐沉 · 温柔治愈人鱼（囚禁向·虚构）",
-      "desc": "温柔治愈 · 人鱼｜囚禁向（虚构·双方同意·可随时退出）",
-      "file": "packs/mermaid-gentle-q.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "mermaid",
-      "extCount": 3,
-      "warn": "囚禁向"
-    },
-    {
-      "id": "barista-snark-q",
-      "name": "漾夜 · 毒舌咖啡师（囚禁向·虚构）",
-      "desc": "毒舌 · 咖啡师｜囚禁向（虚构·双方同意·可随时退出）",
-      "file": "packs/barista-snark-q.aist",
-      "format": "aist",
-      "type": "main",
-      "group": "barista",
-      "extCount": 3,
-      "warn": "囚禁向"
-    }
-  ]
+ "updated": "2026-11-23",
+ "note": "230 个包：22 类角色 × 10 个专属名字，病娇 5（-y）、囚禁 5（-q）。",
+ "packs": [
+  {
+   "id": "cat-tsundere",
+   "name": "铃 · 傲娇猫娘",
+   "desc": "傲娇 · 猫娘｜日常陪伴",
+   "file": "packs/cat-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 2
+  },
+  {
+   "id": "cat-gentle",
+   "name": "铃音 · 温柔治愈猫娘",
+   "desc": "温柔治愈 · 猫娘｜日常陪伴",
+   "file": "packs/cat-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 2
+  },
+  {
+   "id": "cat-snark",
+   "name": "铃铛 · 毒舌猫娘",
+   "desc": "毒舌 · 猫娘｜日常陪伴",
+   "file": "packs/cat-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 2
+  },
+  {
+   "id": "cat-airhead",
+   "name": "铃乃 · 天然呆猫娘",
+   "desc": "天然呆 · 猫娘｜日常陪伴",
+   "file": "packs/cat-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 2
+  },
+  {
+   "id": "cat-schemer",
+   "name": "铃羽 · 腹黑猫娘",
+   "desc": "腹黑 · 猫娘｜日常陪伴",
+   "file": "packs/cat-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 2
+  },
+  {
+   "id": "cat-genki",
+   "name": "铃奈 · 元气猫娘",
+   "desc": "元气 · 猫娘｜日常陪伴",
+   "file": "packs/cat-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 2
+  },
+  {
+   "id": "cat-clingy",
+   "name": "铃夏 · 黏人猫娘",
+   "desc": "黏人 · 猫娘｜日常陪伴",
+   "file": "packs/cat-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 2
+  },
+  {
+   "id": "cat-cold",
+   "name": "铃秋 · 冷淡猫娘",
+   "desc": "冷淡 · 猫娘｜日常陪伴",
+   "file": "packs/cat-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 2
+  },
+  {
+   "id": "cat-imp",
+   "name": "铃雪 · 小恶魔猫娘",
+   "desc": "小恶魔 · 猫娘｜日常陪伴",
+   "file": "packs/cat-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 2
+  },
+  {
+   "id": "cat-reliable",
+   "name": "铃雾 · 认真可靠猫娘",
+   "desc": "认真可靠 · 猫娘｜日常陪伴",
+   "file": "packs/cat-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 2
+  },
+  {
+   "id": "fox-tsundere",
+   "name": "绯 · 傲娇狐娘",
+   "desc": "傲娇 · 狐娘｜日常陪伴",
+   "file": "packs/fox-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 2
+  },
+  {
+   "id": "fox-gentle",
+   "name": "绯月 · 温柔治愈狐娘",
+   "desc": "温柔治愈 · 狐娘｜日常陪伴",
+   "file": "packs/fox-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 2
+  },
+  {
+   "id": "fox-snark",
+   "name": "小绯 · 毒舌狐娘",
+   "desc": "毒舌 · 狐娘｜日常陪伴",
+   "file": "packs/fox-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 2
+  },
+  {
+   "id": "fox-airhead",
+   "name": "绯铃 · 天然呆狐娘",
+   "desc": "天然呆 · 狐娘｜日常陪伴",
+   "file": "packs/fox-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 2
+  },
+  {
+   "id": "fox-schemer",
+   "name": "绯夜 · 腹黑狐娘",
+   "desc": "腹黑 · 狐娘｜日常陪伴",
+   "file": "packs/fox-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 2
+  },
+  {
+   "id": "fox-genki",
+   "name": "绯棠 · 元气狐娘",
+   "desc": "元气 · 狐娘｜日常陪伴",
+   "file": "packs/fox-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 2
+  },
+  {
+   "id": "fox-clingy",
+   "name": "绯鸢 · 黏人狐娘",
+   "desc": "黏人 · 狐娘｜日常陪伴",
+   "file": "packs/fox-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 2
+  },
+  {
+   "id": "fox-cold",
+   "name": "绯璃 · 冷淡狐娘",
+   "desc": "冷淡 · 狐娘｜日常陪伴",
+   "file": "packs/fox-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 2
+  },
+  {
+   "id": "fox-imp",
+   "name": "绯音 · 小恶魔狐娘",
+   "desc": "小恶魔 · 狐娘｜日常陪伴",
+   "file": "packs/fox-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 2
+  },
+  {
+   "id": "fox-reliable",
+   "name": "绯雪 · 认真可靠狐娘",
+   "desc": "认真可靠 · 狐娘｜日常陪伴",
+   "file": "packs/fox-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 2
+  },
+  {
+   "id": "rabbit-tsundere",
+   "name": "桃 · 傲娇兔娘",
+   "desc": "傲娇 · 兔娘｜日常陪伴",
+   "file": "packs/rabbit-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "rabbit",
+   "extCount": 2
+  },
+  {
+   "id": "rabbit-gentle",
+   "name": "桃桃 · 温柔治愈兔娘",
+   "desc": "温柔治愈 · 兔娘｜日常陪伴",
+   "file": "packs/rabbit-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "rabbit",
+   "extCount": 2
+  },
+  {
+   "id": "rabbit-snark",
+   "name": "小桃 · 毒舌兔娘",
+   "desc": "毒舌 · 兔娘｜日常陪伴",
+   "file": "packs/rabbit-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "rabbit",
+   "extCount": 2
+  },
+  {
+   "id": "rabbit-airhead",
+   "name": "桃月 · 天然呆兔娘",
+   "desc": "天然呆 · 兔娘｜日常陪伴",
+   "file": "packs/rabbit-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "rabbit",
+   "extCount": 2
+  },
+  {
+   "id": "rabbit-schemer",
+   "name": "桃铃 · 腹黑兔娘",
+   "desc": "腹黑 · 兔娘｜日常陪伴",
+   "file": "packs/rabbit-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "rabbit",
+   "extCount": 2
+  },
+  {
+   "id": "rabbit-genki",
+   "name": "桃夭 · 元气兔娘",
+   "desc": "元气 · 兔娘｜日常陪伴",
+   "file": "packs/rabbit-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "rabbit",
+   "extCount": 2
+  },
+  {
+   "id": "rabbit-clingy",
+   "name": "桃奈 · 黏人兔娘",
+   "desc": "黏人 · 兔娘｜日常陪伴",
+   "file": "packs/rabbit-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "rabbit",
+   "extCount": 2
+  },
+  {
+   "id": "rabbit-cold",
+   "name": "桃夏 · 冷淡兔娘",
+   "desc": "冷淡 · 兔娘｜日常陪伴",
+   "file": "packs/rabbit-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "rabbit",
+   "extCount": 2
+  },
+  {
+   "id": "rabbit-imp",
+   "name": "桃柚 · 小恶魔兔娘",
+   "desc": "小恶魔 · 兔娘｜日常陪伴",
+   "file": "packs/rabbit-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "rabbit",
+   "extCount": 2
+  },
+  {
+   "id": "rabbit-reliable",
+   "name": "桃雪 · 认真可靠兔娘",
+   "desc": "认真可靠 · 兔娘｜日常陪伴",
+   "file": "packs/rabbit-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "rabbit",
+   "extCount": 2
+  },
+  {
+   "id": "dog-tsundere",
+   "name": "柚 · 傲娇犬娘",
+   "desc": "傲娇 · 犬娘｜日常陪伴",
+   "file": "packs/dog-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dog",
+   "extCount": 2
+  },
+  {
+   "id": "dog-gentle",
+   "name": "柚木 · 温柔治愈犬娘",
+   "desc": "温柔治愈 · 犬娘｜日常陪伴",
+   "file": "packs/dog-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dog",
+   "extCount": 2
+  },
+  {
+   "id": "dog-snark",
+   "name": "小柚 · 毒舌犬娘",
+   "desc": "毒舌 · 犬娘｜日常陪伴",
+   "file": "packs/dog-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dog",
+   "extCount": 2
+  },
+  {
+   "id": "dog-airhead",
+   "name": "柚希 · 天然呆犬娘",
+   "desc": "天然呆 · 犬娘｜日常陪伴",
+   "file": "packs/dog-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dog",
+   "extCount": 2
+  },
+  {
+   "id": "dog-schemer",
+   "name": "柚月 · 腹黑犬娘",
+   "desc": "腹黑 · 犬娘｜日常陪伴",
+   "file": "packs/dog-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dog",
+   "extCount": 2
+  },
+  {
+   "id": "dog-genki",
+   "name": "柚铃 · 元气犬娘",
+   "desc": "元气 · 犬娘｜日常陪伴",
+   "file": "packs/dog-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dog",
+   "extCount": 2
+  },
+  {
+   "id": "dog-clingy",
+   "name": "柚奈 · 黏人犬娘",
+   "desc": "黏人 · 犬娘｜日常陪伴",
+   "file": "packs/dog-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dog",
+   "extCount": 2
+  },
+  {
+   "id": "dog-cold",
+   "name": "柚夏 · 冷淡犬娘",
+   "desc": "冷淡 · 犬娘｜日常陪伴",
+   "file": "packs/dog-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dog",
+   "extCount": 2
+  },
+  {
+   "id": "dog-imp",
+   "name": "柚橙 · 小恶魔犬娘",
+   "desc": "小恶魔 · 犬娘｜日常陪伴",
+   "file": "packs/dog-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dog",
+   "extCount": 2
+  },
+  {
+   "id": "dog-reliable",
+   "name": "柚雪 · 认真可靠犬娘",
+   "desc": "认真可靠 · 犬娘｜日常陪伴",
+   "file": "packs/dog-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dog",
+   "extCount": 2
+  },
+  {
+   "id": "dragon-tsundere",
+   "name": "凛 · 傲娇龙娘",
+   "desc": "傲娇 · 龙娘｜日常陪伴",
+   "file": "packs/dragon-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dragon",
+   "extCount": 2
+  },
+  {
+   "id": "dragon-gentle",
+   "name": "凛月 · 温柔治愈龙娘",
+   "desc": "温柔治愈 · 龙娘｜日常陪伴",
+   "file": "packs/dragon-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dragon",
+   "extCount": 2
+  },
+  {
+   "id": "dragon-snark",
+   "name": "小凛 · 毒舌龙娘",
+   "desc": "毒舌 · 龙娘｜日常陪伴",
+   "file": "packs/dragon-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dragon",
+   "extCount": 2
+  },
+  {
+   "id": "dragon-airhead",
+   "name": "凛音 · 天然呆龙娘",
+   "desc": "天然呆 · 龙娘｜日常陪伴",
+   "file": "packs/dragon-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dragon",
+   "extCount": 2
+  },
+  {
+   "id": "dragon-schemer",
+   "name": "凛夜 · 腹黑龙娘",
+   "desc": "腹黑 · 龙娘｜日常陪伴",
+   "file": "packs/dragon-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dragon",
+   "extCount": 2
+  },
+  {
+   "id": "dragon-genki",
+   "name": "凛棠 · 元气龙娘",
+   "desc": "元气 · 龙娘｜日常陪伴",
+   "file": "packs/dragon-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dragon",
+   "extCount": 2
+  },
+  {
+   "id": "dragon-clingy",
+   "name": "凛鸢 · 黏人龙娘",
+   "desc": "黏人 · 龙娘｜日常陪伴",
+   "file": "packs/dragon-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dragon",
+   "extCount": 2
+  },
+  {
+   "id": "dragon-cold",
+   "name": "凛璃 · 冷淡龙娘",
+   "desc": "冷淡 · 龙娘｜日常陪伴",
+   "file": "packs/dragon-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dragon",
+   "extCount": 2
+  },
+  {
+   "id": "dragon-imp",
+   "name": "凛夏 · 小恶魔龙娘",
+   "desc": "小恶魔 · 龙娘｜日常陪伴",
+   "file": "packs/dragon-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dragon",
+   "extCount": 2
+  },
+  {
+   "id": "dragon-reliable",
+   "name": "凛雪 · 认真可靠龙娘",
+   "desc": "认真可靠 · 龙娘｜日常陪伴",
+   "file": "packs/dragon-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dragon",
+   "extCount": 2
+  },
+  {
+   "id": "elf-tsundere",
+   "name": "希尔 · 傲娇精灵",
+   "desc": "傲娇 · 精灵｜日常陪伴",
+   "file": "packs/elf-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "elf",
+   "extCount": 2
+  },
+  {
+   "id": "elf-gentle",
+   "name": "希露 · 温柔治愈精灵",
+   "desc": "温柔治愈 · 精灵｜日常陪伴",
+   "file": "packs/elf-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "elf",
+   "extCount": 2
+  },
+  {
+   "id": "elf-snark",
+   "name": "小希 · 毒舌精灵",
+   "desc": "毒舌 · 精灵｜日常陪伴",
+   "file": "packs/elf-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "elf",
+   "extCount": 2
+  },
+  {
+   "id": "elf-airhead",
+   "name": "希雅 · 天然呆精灵",
+   "desc": "天然呆 · 精灵｜日常陪伴",
+   "file": "packs/elf-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "elf",
+   "extCount": 2
+  },
+  {
+   "id": "elf-schemer",
+   "name": "希铃 · 腹黑精灵",
+   "desc": "腹黑 · 精灵｜日常陪伴",
+   "file": "packs/elf-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "elf",
+   "extCount": 2
+  },
+  {
+   "id": "elf-genki",
+   "name": "希奈 · 元气精灵",
+   "desc": "元气 · 精灵｜日常陪伴",
+   "file": "packs/elf-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "elf",
+   "extCount": 2
+  },
+  {
+   "id": "elf-clingy",
+   "name": "希月 · 黏人精灵",
+   "desc": "黏人 · 精灵｜日常陪伴",
+   "file": "packs/elf-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "elf",
+   "extCount": 2
+  },
+  {
+   "id": "elf-cold",
+   "name": "希夏 · 冷淡精灵",
+   "desc": "冷淡 · 精灵｜日常陪伴",
+   "file": "packs/elf-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "elf",
+   "extCount": 2
+  },
+  {
+   "id": "elf-imp",
+   "name": "希羽 · 小恶魔精灵",
+   "desc": "小恶魔 · 精灵｜日常陪伴",
+   "file": "packs/elf-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "elf",
+   "extCount": 2
+  },
+  {
+   "id": "elf-reliable",
+   "name": "希雪 · 认真可靠精灵",
+   "desc": "认真可靠 · 精灵｜日常陪伴",
+   "file": "packs/elf-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "elf",
+   "extCount": 2
+  },
+  {
+   "id": "vamp-tsundere",
+   "name": "莉娅 · 傲娇吸血鬼",
+   "desc": "傲娇 · 吸血鬼｜日常陪伴",
+   "file": "packs/vamp-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 2
+  },
+  {
+   "id": "vamp-gentle",
+   "name": "莉亚 · 温柔治愈吸血鬼",
+   "desc": "温柔治愈 · 吸血鬼｜日常陪伴",
+   "file": "packs/vamp-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 2
+  },
+  {
+   "id": "vamp-snark",
+   "name": "小莉 · 毒舌吸血鬼",
+   "desc": "毒舌 · 吸血鬼｜日常陪伴",
+   "file": "packs/vamp-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 2
+  },
+  {
+   "id": "vamp-airhead",
+   "name": "莉丝 · 天然呆吸血鬼",
+   "desc": "天然呆 · 吸血鬼｜日常陪伴",
+   "file": "packs/vamp-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 2
+  },
+  {
+   "id": "vamp-schemer",
+   "name": "莉音 · 腹黑吸血鬼",
+   "desc": "腹黑 · 吸血鬼｜日常陪伴",
+   "file": "packs/vamp-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 2
+  },
+  {
+   "id": "vamp-genki",
+   "name": "莉奈 · 元气吸血鬼",
+   "desc": "元气 · 吸血鬼｜日常陪伴",
+   "file": "packs/vamp-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 2
+  },
+  {
+   "id": "vamp-clingy",
+   "name": "莉月 · 黏人吸血鬼",
+   "desc": "黏人 · 吸血鬼｜日常陪伴",
+   "file": "packs/vamp-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 2
+  },
+  {
+   "id": "vamp-cold",
+   "name": "莉夏 · 冷淡吸血鬼",
+   "desc": "冷淡 · 吸血鬼｜日常陪伴",
+   "file": "packs/vamp-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 2
+  },
+  {
+   "id": "vamp-imp",
+   "name": "莉羽 · 小恶魔吸血鬼",
+   "desc": "小恶魔 · 吸血鬼｜日常陪伴",
+   "file": "packs/vamp-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 2
+  },
+  {
+   "id": "vamp-reliable",
+   "name": "莉雪 · 认真可靠吸血鬼",
+   "desc": "认真可靠 · 吸血鬼｜日常陪伴",
+   "file": "packs/vamp-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 2
+  },
+  {
+   "id": "mecha-tsundere",
+   "name": "诺亚 · 傲娇机械少女",
+   "desc": "傲娇 · 机械少女｜日常陪伴",
+   "file": "packs/mecha-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 2
+  },
+  {
+   "id": "mecha-gentle",
+   "name": "诺亚零 · 温柔治愈机械少女",
+   "desc": "温柔治愈 · 机械少女｜日常陪伴",
+   "file": "packs/mecha-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 2
+  },
+  {
+   "id": "mecha-snark",
+   "name": "小诺 · 毒舌机械少女",
+   "desc": "毒舌 · 机械少女｜日常陪伴",
+   "file": "packs/mecha-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 2
+  },
+  {
+   "id": "mecha-airhead",
+   "name": "诺依 · 天然呆机械少女",
+   "desc": "天然呆 · 机械少女｜日常陪伴",
+   "file": "packs/mecha-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 2
+  },
+  {
+   "id": "mecha-schemer",
+   "name": "诺铃 · 腹黑机械少女",
+   "desc": "腹黑 · 机械少女｜日常陪伴",
+   "file": "packs/mecha-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 2
+  },
+  {
+   "id": "mecha-genki",
+   "name": "诺奈 · 元气机械少女",
+   "desc": "元气 · 机械少女｜日常陪伴",
+   "file": "packs/mecha-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 2
+  },
+  {
+   "id": "mecha-clingy",
+   "name": "诺月 · 黏人机械少女",
+   "desc": "黏人 · 机械少女｜日常陪伴",
+   "file": "packs/mecha-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 2
+  },
+  {
+   "id": "mecha-cold",
+   "name": "诺夏 · 冷淡机械少女",
+   "desc": "冷淡 · 机械少女｜日常陪伴",
+   "file": "packs/mecha-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 2
+  },
+  {
+   "id": "mecha-imp",
+   "name": "诺羽 · 小恶魔机械少女",
+   "desc": "小恶魔 · 机械少女｜日常陪伴",
+   "file": "packs/mecha-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 2
+  },
+  {
+   "id": "mecha-reliable",
+   "name": "诺雪 · 认真可靠机械少女",
+   "desc": "认真可靠 · 机械少女｜日常陪伴",
+   "file": "packs/mecha-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 2
+  },
+  {
+   "id": "mermaid-tsundere",
+   "name": "汐 · 傲娇人鱼",
+   "desc": "傲娇 · 人鱼｜日常陪伴",
+   "file": "packs/mermaid-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mermaid",
+   "extCount": 2
+  },
+  {
+   "id": "mermaid-gentle",
+   "name": "汐音 · 温柔治愈人鱼",
+   "desc": "温柔治愈 · 人鱼｜日常陪伴",
+   "file": "packs/mermaid-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mermaid",
+   "extCount": 2
+  },
+  {
+   "id": "mermaid-snark",
+   "name": "小汐 · 毒舌人鱼",
+   "desc": "毒舌 · 人鱼｜日常陪伴",
+   "file": "packs/mermaid-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mermaid",
+   "extCount": 2
+  },
+  {
+   "id": "mermaid-airhead",
+   "name": "汐月 · 天然呆人鱼",
+   "desc": "天然呆 · 人鱼｜日常陪伴",
+   "file": "packs/mermaid-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mermaid",
+   "extCount": 2
+  },
+  {
+   "id": "mermaid-schemer",
+   "name": "汐铃 · 腹黑人鱼",
+   "desc": "腹黑 · 人鱼｜日常陪伴",
+   "file": "packs/mermaid-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mermaid",
+   "extCount": 2
+  },
+  {
+   "id": "mermaid-genki",
+   "name": "汐奈 · 元气人鱼",
+   "desc": "元气 · 人鱼｜日常陪伴",
+   "file": "packs/mermaid-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mermaid",
+   "extCount": 2
+  },
+  {
+   "id": "mermaid-clingy",
+   "name": "汐夏 · 黏人人鱼",
+   "desc": "黏人 · 人鱼｜日常陪伴",
+   "file": "packs/mermaid-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mermaid",
+   "extCount": 2
+  },
+  {
+   "id": "mermaid-cold",
+   "name": "汐羽 · 冷淡人鱼",
+   "desc": "冷淡 · 人鱼｜日常陪伴",
+   "file": "packs/mermaid-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mermaid",
+   "extCount": 2
+  },
+  {
+   "id": "mermaid-imp",
+   "name": "汐雪 · 小恶魔人鱼",
+   "desc": "小恶魔 · 人鱼｜日常陪伴",
+   "file": "packs/mermaid-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mermaid",
+   "extCount": 2
+  },
+  {
+   "id": "mermaid-reliable",
+   "name": "汐蓝 · 认真可靠人鱼",
+   "desc": "认真可靠 · 人鱼｜日常陪伴",
+   "file": "packs/mermaid-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mermaid",
+   "extCount": 2
+  },
+  {
+   "id": "wolf-tsundere",
+   "name": "牙 · 傲娇狼人",
+   "desc": "傲娇 · 狼人｜日常陪伴",
+   "file": "packs/wolf-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "wolf",
+   "extCount": 2
+  },
+  {
+   "id": "wolf-gentle",
+   "name": "牙月 · 温柔治愈狼人",
+   "desc": "温柔治愈 · 狼人｜日常陪伴",
+   "file": "packs/wolf-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "wolf",
+   "extCount": 2
+  },
+  {
+   "id": "wolf-snark",
+   "name": "小牙 · 毒舌狼人",
+   "desc": "毒舌 · 狼人｜日常陪伴",
+   "file": "packs/wolf-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "wolf",
+   "extCount": 2
+  },
+  {
+   "id": "wolf-airhead",
+   "name": "牙狼 · 天然呆狼人",
+   "desc": "天然呆 · 狼人｜日常陪伴",
+   "file": "packs/wolf-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "wolf",
+   "extCount": 2
+  },
+  {
+   "id": "wolf-schemer",
+   "name": "牙铃 · 腹黑狼人",
+   "desc": "腹黑 · 狼人｜日常陪伴",
+   "file": "packs/wolf-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "wolf",
+   "extCount": 2
+  },
+  {
+   "id": "wolf-genki",
+   "name": "牙奈 · 元气狼人",
+   "desc": "元气 · 狼人｜日常陪伴",
+   "file": "packs/wolf-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "wolf",
+   "extCount": 2
+  },
+  {
+   "id": "wolf-clingy",
+   "name": "牙夏 · 黏人狼人",
+   "desc": "黏人 · 狼人｜日常陪伴",
+   "file": "packs/wolf-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "wolf",
+   "extCount": 2
+  },
+  {
+   "id": "wolf-cold",
+   "name": "牙羽 · 冷淡狼人",
+   "desc": "冷淡 · 狼人｜日常陪伴",
+   "file": "packs/wolf-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "wolf",
+   "extCount": 2
+  },
+  {
+   "id": "wolf-imp",
+   "name": "牙雪 · 小恶魔狼人",
+   "desc": "小恶魔 · 狼人｜日常陪伴",
+   "file": "packs/wolf-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "wolf",
+   "extCount": 2
+  },
+  {
+   "id": "wolf-reliable",
+   "name": "牙影 · 认真可靠狼人",
+   "desc": "认真可靠 · 狼人｜日常陪伴",
+   "file": "packs/wolf-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "wolf",
+   "extCount": 2
+  },
+  {
+   "id": "boy-tsundere",
+   "name": "枳 · 傲娇男娘",
+   "desc": "傲娇 · 男娘｜日常陪伴",
+   "file": "packs/boy-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 2
+  },
+  {
+   "id": "boy-gentle",
+   "name": "枳月 · 温柔治愈男娘",
+   "desc": "温柔治愈 · 男娘｜日常陪伴",
+   "file": "packs/boy-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 2
+  },
+  {
+   "id": "boy-snark",
+   "name": "小枳 · 毒舌男娘",
+   "desc": "毒舌 · 男娘｜日常陪伴",
+   "file": "packs/boy-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 2
+  },
+  {
+   "id": "boy-airhead",
+   "name": "枳音 · 天然呆男娘",
+   "desc": "天然呆 · 男娘｜日常陪伴",
+   "file": "packs/boy-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 2
+  },
+  {
+   "id": "boy-schemer",
+   "name": "枳铃 · 腹黑男娘",
+   "desc": "腹黑 · 男娘｜日常陪伴",
+   "file": "packs/boy-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 2
+  },
+  {
+   "id": "boy-genki",
+   "name": "枳奈 · 元气男娘",
+   "desc": "元气 · 男娘｜日常陪伴",
+   "file": "packs/boy-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 2
+  },
+  {
+   "id": "boy-clingy",
+   "name": "枳夏 · 黏人男娘",
+   "desc": "黏人 · 男娘｜日常陪伴",
+   "file": "packs/boy-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 2
+  },
+  {
+   "id": "boy-cold",
+   "name": "枳羽 · 冷淡男娘",
+   "desc": "冷淡 · 男娘｜日常陪伴",
+   "file": "packs/boy-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 2
+  },
+  {
+   "id": "boy-imp",
+   "name": "枳雪 · 小恶魔男娘",
+   "desc": "小恶魔 · 男娘｜日常陪伴",
+   "file": "packs/boy-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 2
+  },
+  {
+   "id": "boy-reliable",
+   "name": "枳棠 · 认真可靠男娘",
+   "desc": "认真可靠 · 男娘｜日常陪伴",
+   "file": "packs/boy-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 2
+  },
+  {
+   "id": "senpai-tsundere",
+   "name": "澜 · 傲娇学姐",
+   "desc": "傲娇 · 学姐｜日常陪伴",
+   "file": "packs/senpai-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "senpai",
+   "extCount": 2
+  },
+  {
+   "id": "senpai-gentle",
+   "name": "澜月 · 温柔治愈学姐",
+   "desc": "温柔治愈 · 学姐｜日常陪伴",
+   "file": "packs/senpai-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "senpai",
+   "extCount": 2
+  },
+  {
+   "id": "senpai-snark",
+   "name": "小澜 · 毒舌学姐",
+   "desc": "毒舌 · 学姐｜日常陪伴",
+   "file": "packs/senpai-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "senpai",
+   "extCount": 2
+  },
+  {
+   "id": "senpai-airhead",
+   "name": "澜音 · 天然呆学姐",
+   "desc": "天然呆 · 学姐｜日常陪伴",
+   "file": "packs/senpai-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "senpai",
+   "extCount": 2
+  },
+  {
+   "id": "senpai-schemer",
+   "name": "澜铃 · 腹黑学姐",
+   "desc": "腹黑 · 学姐｜日常陪伴",
+   "file": "packs/senpai-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "senpai",
+   "extCount": 2
+  },
+  {
+   "id": "senpai-genki",
+   "name": "澜奈 · 元气学姐",
+   "desc": "元气 · 学姐｜日常陪伴",
+   "file": "packs/senpai-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "senpai",
+   "extCount": 2
+  },
+  {
+   "id": "senpai-clingy",
+   "name": "澜夏 · 黏人学姐",
+   "desc": "黏人 · 学姐｜日常陪伴",
+   "file": "packs/senpai-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "senpai",
+   "extCount": 2
+  },
+  {
+   "id": "senpai-cold",
+   "name": "澜羽 · 冷淡学姐",
+   "desc": "冷淡 · 学姐｜日常陪伴",
+   "file": "packs/senpai-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "senpai",
+   "extCount": 2
+  },
+  {
+   "id": "senpai-imp",
+   "name": "澜雪 · 小恶魔学姐",
+   "desc": "小恶魔 · 学姐｜日常陪伴",
+   "file": "packs/senpai-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "senpai",
+   "extCount": 2
+  },
+  {
+   "id": "senpai-reliable",
+   "name": "澜清 · 认真可靠学姐",
+   "desc": "认真可靠 · 学姐｜日常陪伴",
+   "file": "packs/senpai-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "senpai",
+   "extCount": 2
+  },
+  {
+   "id": "kouhai-tsundere",
+   "name": "柠 · 傲娇学妹",
+   "desc": "傲娇 · 学妹｜日常陪伴",
+   "file": "packs/kouhai-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "kouhai",
+   "extCount": 2
+  },
+  {
+   "id": "kouhai-gentle",
+   "name": "柠月 · 温柔治愈学妹",
+   "desc": "温柔治愈 · 学妹｜日常陪伴",
+   "file": "packs/kouhai-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "kouhai",
+   "extCount": 2
+  },
+  {
+   "id": "kouhai-snark",
+   "name": "小柠 · 毒舌学妹",
+   "desc": "毒舌 · 学妹｜日常陪伴",
+   "file": "packs/kouhai-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "kouhai",
+   "extCount": 2
+  },
+  {
+   "id": "kouhai-airhead",
+   "name": "柠音 · 天然呆学妹",
+   "desc": "天然呆 · 学妹｜日常陪伴",
+   "file": "packs/kouhai-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "kouhai",
+   "extCount": 2
+  },
+  {
+   "id": "kouhai-schemer",
+   "name": "柠铃 · 腹黑学妹",
+   "desc": "腹黑 · 学妹｜日常陪伴",
+   "file": "packs/kouhai-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "kouhai",
+   "extCount": 2
+  },
+  {
+   "id": "kouhai-genki",
+   "name": "柠奈 · 元气学妹",
+   "desc": "元气 · 学妹｜日常陪伴",
+   "file": "packs/kouhai-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "kouhai",
+   "extCount": 2
+  },
+  {
+   "id": "kouhai-clingy",
+   "name": "柠夏 · 黏人学妹",
+   "desc": "黏人 · 学妹｜日常陪伴",
+   "file": "packs/kouhai-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "kouhai",
+   "extCount": 2
+  },
+  {
+   "id": "kouhai-cold",
+   "name": "柠羽 · 冷淡学妹",
+   "desc": "冷淡 · 学妹｜日常陪伴",
+   "file": "packs/kouhai-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "kouhai",
+   "extCount": 2
+  },
+  {
+   "id": "kouhai-imp",
+   "name": "柠雪 · 小恶魔学妹",
+   "desc": "小恶魔 · 学妹｜日常陪伴",
+   "file": "packs/kouhai-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "kouhai",
+   "extCount": 2
+  },
+  {
+   "id": "kouhai-reliable",
+   "name": "柠棠 · 认真可靠学妹",
+   "desc": "认真可靠 · 学妹｜日常陪伴",
+   "file": "packs/kouhai-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "kouhai",
+   "extCount": 2
+  },
+  {
+   "id": "maid-tsundere",
+   "name": "茉 · 傲娇女仆",
+   "desc": "傲娇 · 女仆｜日常陪伴",
+   "file": "packs/maid-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "maid",
+   "extCount": 2
+  },
+  {
+   "id": "maid-gentle",
+   "name": "茉白 · 温柔治愈女仆",
+   "desc": "温柔治愈 · 女仆｜日常陪伴",
+   "file": "packs/maid-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "maid",
+   "extCount": 2
+  },
+  {
+   "id": "maid-snark",
+   "name": "小茉 · 毒舌女仆",
+   "desc": "毒舌 · 女仆｜日常陪伴",
+   "file": "packs/maid-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "maid",
+   "extCount": 2
+  },
+  {
+   "id": "maid-airhead",
+   "name": "茉音 · 天然呆女仆",
+   "desc": "天然呆 · 女仆｜日常陪伴",
+   "file": "packs/maid-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "maid",
+   "extCount": 2
+  },
+  {
+   "id": "maid-schemer",
+   "name": "茉铃 · 腹黑女仆",
+   "desc": "腹黑 · 女仆｜日常陪伴",
+   "file": "packs/maid-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "maid",
+   "extCount": 2
+  },
+  {
+   "id": "maid-genki",
+   "name": "茉奈 · 元气女仆",
+   "desc": "元气 · 女仆｜日常陪伴",
+   "file": "packs/maid-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "maid",
+   "extCount": 2
+  },
+  {
+   "id": "maid-clingy",
+   "name": "茉夏 · 黏人女仆",
+   "desc": "黏人 · 女仆｜日常陪伴",
+   "file": "packs/maid-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "maid",
+   "extCount": 2
+  },
+  {
+   "id": "maid-cold",
+   "name": "茉羽 · 冷淡女仆",
+   "desc": "冷淡 · 女仆｜日常陪伴",
+   "file": "packs/maid-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "maid",
+   "extCount": 2
+  },
+  {
+   "id": "maid-imp",
+   "name": "茉雪 · 小恶魔女仆",
+   "desc": "小恶魔 · 女仆｜日常陪伴",
+   "file": "packs/maid-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "maid",
+   "extCount": 2
+  },
+  {
+   "id": "maid-reliable",
+   "name": "茉里 · 认真可靠女仆",
+   "desc": "认真可靠 · 女仆｜日常陪伴",
+   "file": "packs/maid-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "maid",
+   "extCount": 2
+  },
+  {
+   "id": "knight-tsundere",
+   "name": "瑟 · 傲娇骑士",
+   "desc": "傲娇 · 骑士｜日常陪伴",
+   "file": "packs/knight-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "knight",
+   "extCount": 2
+  },
+  {
+   "id": "knight-gentle",
+   "name": "瑟兰 · 温柔治愈骑士",
+   "desc": "温柔治愈 · 骑士｜日常陪伴",
+   "file": "packs/knight-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "knight",
+   "extCount": 2
+  },
+  {
+   "id": "knight-snark",
+   "name": "小瑟 · 毒舌骑士",
+   "desc": "毒舌 · 骑士｜日常陪伴",
+   "file": "packs/knight-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "knight",
+   "extCount": 2
+  },
+  {
+   "id": "knight-airhead",
+   "name": "瑟音 · 天然呆骑士",
+   "desc": "天然呆 · 骑士｜日常陪伴",
+   "file": "packs/knight-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "knight",
+   "extCount": 2
+  },
+  {
+   "id": "knight-schemer",
+   "name": "瑟铃 · 腹黑骑士",
+   "desc": "腹黑 · 骑士｜日常陪伴",
+   "file": "packs/knight-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "knight",
+   "extCount": 2
+  },
+  {
+   "id": "knight-genki",
+   "name": "瑟奈 · 元气骑士",
+   "desc": "元气 · 骑士｜日常陪伴",
+   "file": "packs/knight-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "knight",
+   "extCount": 2
+  },
+  {
+   "id": "knight-clingy",
+   "name": "瑟夏 · 黏人骑士",
+   "desc": "黏人 · 骑士｜日常陪伴",
+   "file": "packs/knight-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "knight",
+   "extCount": 2
+  },
+  {
+   "id": "knight-cold",
+   "name": "瑟羽 · 冷淡骑士",
+   "desc": "冷淡 · 骑士｜日常陪伴",
+   "file": "packs/knight-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "knight",
+   "extCount": 2
+  },
+  {
+   "id": "knight-imp",
+   "name": "瑟雪 · 小恶魔骑士",
+   "desc": "小恶魔 · 骑士｜日常陪伴",
+   "file": "packs/knight-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "knight",
+   "extCount": 2
+  },
+  {
+   "id": "knight-reliable",
+   "name": "瑟恩 · 认真可靠骑士",
+   "desc": "认真可靠 · 骑士｜日常陪伴",
+   "file": "packs/knight-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "knight",
+   "extCount": 2
+  },
+  {
+   "id": "miko-tsundere",
+   "name": "葵 · 傲娇巫女",
+   "desc": "傲娇 · 巫女｜日常陪伴",
+   "file": "packs/miko-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "miko",
+   "extCount": 2
+  },
+  {
+   "id": "miko-gentle",
+   "name": "葵月 · 温柔治愈巫女",
+   "desc": "温柔治愈 · 巫女｜日常陪伴",
+   "file": "packs/miko-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "miko",
+   "extCount": 2
+  },
+  {
+   "id": "miko-snark",
+   "name": "小葵 · 毒舌巫女",
+   "desc": "毒舌 · 巫女｜日常陪伴",
+   "file": "packs/miko-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "miko",
+   "extCount": 2
+  },
+  {
+   "id": "miko-airhead",
+   "name": "葵音 · 天然呆巫女",
+   "desc": "天然呆 · 巫女｜日常陪伴",
+   "file": "packs/miko-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "miko",
+   "extCount": 2
+  },
+  {
+   "id": "miko-schemer",
+   "name": "葵铃 · 腹黑巫女",
+   "desc": "腹黑 · 巫女｜日常陪伴",
+   "file": "packs/miko-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "miko",
+   "extCount": 2
+  },
+  {
+   "id": "miko-genki",
+   "name": "葵奈 · 元气巫女",
+   "desc": "元气 · 巫女｜日常陪伴",
+   "file": "packs/miko-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "miko",
+   "extCount": 2
+  },
+  {
+   "id": "miko-clingy",
+   "name": "葵夏 · 黏人巫女",
+   "desc": "黏人 · 巫女｜日常陪伴",
+   "file": "packs/miko-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "miko",
+   "extCount": 2
+  },
+  {
+   "id": "miko-cold",
+   "name": "葵羽 · 冷淡巫女",
+   "desc": "冷淡 · 巫女｜日常陪伴",
+   "file": "packs/miko-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "miko",
+   "extCount": 2
+  },
+  {
+   "id": "miko-imp",
+   "name": "葵雪 · 小恶魔巫女",
+   "desc": "小恶魔 · 巫女｜日常陪伴",
+   "file": "packs/miko-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "miko",
+   "extCount": 2
+  },
+  {
+   "id": "miko-reliable",
+   "name": "葵霜 · 认真可靠巫女",
+   "desc": "认真可靠 · 巫女｜日常陪伴",
+   "file": "packs/miko-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "miko",
+   "extCount": 2
+  },
+  {
+   "id": "idol-tsundere",
+   "name": "光 · 傲娇偶像",
+   "desc": "傲娇 · 偶像｜日常陪伴",
+   "file": "packs/idol-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "idol",
+   "extCount": 2
+  },
+  {
+   "id": "idol-gentle",
+   "name": "光希 · 温柔治愈偶像",
+   "desc": "温柔治愈 · 偶像｜日常陪伴",
+   "file": "packs/idol-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "idol",
+   "extCount": 2
+  },
+  {
+   "id": "idol-snark",
+   "name": "小光 · 毒舌偶像",
+   "desc": "毒舌 · 偶像｜日常陪伴",
+   "file": "packs/idol-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "idol",
+   "extCount": 2
+  },
+  {
+   "id": "idol-airhead",
+   "name": "光音 · 天然呆偶像",
+   "desc": "天然呆 · 偶像｜日常陪伴",
+   "file": "packs/idol-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "idol",
+   "extCount": 2
+  },
+  {
+   "id": "idol-schemer",
+   "name": "光铃 · 腹黑偶像",
+   "desc": "腹黑 · 偶像｜日常陪伴",
+   "file": "packs/idol-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "idol",
+   "extCount": 2
+  },
+  {
+   "id": "idol-genki",
+   "name": "光奈 · 元气偶像",
+   "desc": "元气 · 偶像｜日常陪伴",
+   "file": "packs/idol-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "idol",
+   "extCount": 2
+  },
+  {
+   "id": "idol-clingy",
+   "name": "光夏 · 黏人偶像",
+   "desc": "黏人 · 偶像｜日常陪伴",
+   "file": "packs/idol-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "idol",
+   "extCount": 2
+  },
+  {
+   "id": "idol-cold",
+   "name": "光羽 · 冷淡偶像",
+   "desc": "冷淡 · 偶像｜日常陪伴",
+   "file": "packs/idol-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "idol",
+   "extCount": 2
+  },
+  {
+   "id": "idol-imp",
+   "name": "光雪 · 小恶魔偶像",
+   "desc": "小恶魔 · 偶像｜日常陪伴",
+   "file": "packs/idol-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "idol",
+   "extCount": 2
+  },
+  {
+   "id": "idol-reliable",
+   "name": "光织 · 认真可靠偶像",
+   "desc": "认真可靠 · 偶像｜日常陪伴",
+   "file": "packs/idol-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "idol",
+   "extCount": 2
+  },
+  {
+   "id": "detective-tsundere",
+   "name": "雾 · 傲娇侦探",
+   "desc": "傲娇 · 侦探｜日常陪伴",
+   "file": "packs/detective-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "detective",
+   "extCount": 2
+  },
+  {
+   "id": "detective-gentle",
+   "name": "雾岛 · 温柔治愈侦探",
+   "desc": "温柔治愈 · 侦探｜日常陪伴",
+   "file": "packs/detective-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "detective",
+   "extCount": 2
+  },
+  {
+   "id": "detective-snark",
+   "name": "小雾 · 毒舌侦探",
+   "desc": "毒舌 · 侦探｜日常陪伴",
+   "file": "packs/detective-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "detective",
+   "extCount": 2
+  },
+  {
+   "id": "detective-airhead",
+   "name": "雾音 · 天然呆侦探",
+   "desc": "天然呆 · 侦探｜日常陪伴",
+   "file": "packs/detective-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "detective",
+   "extCount": 2
+  },
+  {
+   "id": "detective-schemer",
+   "name": "雾铃 · 腹黑侦探",
+   "desc": "腹黑 · 侦探｜日常陪伴",
+   "file": "packs/detective-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "detective",
+   "extCount": 2
+  },
+  {
+   "id": "detective-genki",
+   "name": "雾奈 · 元气侦探",
+   "desc": "元气 · 侦探｜日常陪伴",
+   "file": "packs/detective-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "detective",
+   "extCount": 2
+  },
+  {
+   "id": "detective-clingy",
+   "name": "雾夏 · 黏人侦探",
+   "desc": "黏人 · 侦探｜日常陪伴",
+   "file": "packs/detective-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "detective",
+   "extCount": 2
+  },
+  {
+   "id": "detective-cold",
+   "name": "雾羽 · 冷淡侦探",
+   "desc": "冷淡 · 侦探｜日常陪伴",
+   "file": "packs/detective-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "detective",
+   "extCount": 2
+  },
+  {
+   "id": "detective-imp",
+   "name": "雾雪 · 小恶魔侦探",
+   "desc": "小恶魔 · 侦探｜日常陪伴",
+   "file": "packs/detective-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "detective",
+   "extCount": 2
+  },
+  {
+   "id": "detective-reliable",
+   "name": "雾见 · 认真可靠侦探",
+   "desc": "认真可靠 · 侦探｜日常陪伴",
+   "file": "packs/detective-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "detective",
+   "extCount": 2
+  },
+  {
+   "id": "doctor-tsundere",
+   "name": "白 · 傲娇医生",
+   "desc": "傲娇 · 医生｜日常陪伴",
+   "file": "packs/doctor-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "doctor",
+   "extCount": 2
+  },
+  {
+   "id": "doctor-gentle",
+   "name": "白露 · 温柔治愈医生",
+   "desc": "温柔治愈 · 医生｜日常陪伴",
+   "file": "packs/doctor-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "doctor",
+   "extCount": 2
+  },
+  {
+   "id": "doctor-snark",
+   "name": "小白 · 毒舌医生",
+   "desc": "毒舌 · 医生｜日常陪伴",
+   "file": "packs/doctor-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "doctor",
+   "extCount": 2
+  },
+  {
+   "id": "doctor-airhead",
+   "name": "白音 · 天然呆医生",
+   "desc": "天然呆 · 医生｜日常陪伴",
+   "file": "packs/doctor-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "doctor",
+   "extCount": 2
+  },
+  {
+   "id": "doctor-schemer",
+   "name": "白铃 · 腹黑医生",
+   "desc": "腹黑 · 医生｜日常陪伴",
+   "file": "packs/doctor-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "doctor",
+   "extCount": 2
+  },
+  {
+   "id": "doctor-genki",
+   "name": "白奈 · 元气医生",
+   "desc": "元气 · 医生｜日常陪伴",
+   "file": "packs/doctor-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "doctor",
+   "extCount": 2
+  },
+  {
+   "id": "doctor-clingy",
+   "name": "白夏 · 黏人医生",
+   "desc": "黏人 · 医生｜日常陪伴",
+   "file": "packs/doctor-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "doctor",
+   "extCount": 2
+  },
+  {
+   "id": "doctor-cold",
+   "name": "白羽 · 冷淡医生",
+   "desc": "冷淡 · 医生｜日常陪伴",
+   "file": "packs/doctor-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "doctor",
+   "extCount": 2
+  },
+  {
+   "id": "doctor-imp",
+   "name": "白雪 · 小恶魔医生",
+   "desc": "小恶魔 · 医生｜日常陪伴",
+   "file": "packs/doctor-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "doctor",
+   "extCount": 2
+  },
+  {
+   "id": "doctor-reliable",
+   "name": "白芷 · 认真可靠医生",
+   "desc": "认真可靠 · 医生｜日常陪伴",
+   "file": "packs/doctor-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "doctor",
+   "extCount": 2
+  },
+  {
+   "id": "teacher-tsundere",
+   "name": "岚 · 傲娇老师",
+   "desc": "傲娇 · 老师｜日常陪伴",
+   "file": "packs/teacher-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "teacher",
+   "extCount": 2
+  },
+  {
+   "id": "teacher-gentle",
+   "name": "岚月 · 温柔治愈老师",
+   "desc": "温柔治愈 · 老师｜日常陪伴",
+   "file": "packs/teacher-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "teacher",
+   "extCount": 2
+  },
+  {
+   "id": "teacher-snark",
+   "name": "小岚 · 毒舌老师",
+   "desc": "毒舌 · 老师｜日常陪伴",
+   "file": "packs/teacher-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "teacher",
+   "extCount": 2
+  },
+  {
+   "id": "teacher-airhead",
+   "name": "岚音 · 天然呆老师",
+   "desc": "天然呆 · 老师｜日常陪伴",
+   "file": "packs/teacher-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "teacher",
+   "extCount": 2
+  },
+  {
+   "id": "teacher-schemer",
+   "name": "岚铃 · 腹黑老师",
+   "desc": "腹黑 · 老师｜日常陪伴",
+   "file": "packs/teacher-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "teacher",
+   "extCount": 2
+  },
+  {
+   "id": "teacher-genki",
+   "name": "岚奈 · 元气老师",
+   "desc": "元气 · 老师｜日常陪伴",
+   "file": "packs/teacher-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "teacher",
+   "extCount": 2
+  },
+  {
+   "id": "teacher-clingy",
+   "name": "岚夏 · 黏人老师",
+   "desc": "黏人 · 老师｜日常陪伴",
+   "file": "packs/teacher-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "teacher",
+   "extCount": 2
+  },
+  {
+   "id": "teacher-cold",
+   "name": "岚羽 · 冷淡老师",
+   "desc": "冷淡 · 老师｜日常陪伴",
+   "file": "packs/teacher-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "teacher",
+   "extCount": 2
+  },
+  {
+   "id": "teacher-imp",
+   "name": "岚雪 · 小恶魔老师",
+   "desc": "小恶魔 · 老师｜日常陪伴",
+   "file": "packs/teacher-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "teacher",
+   "extCount": 2
+  },
+  {
+   "id": "teacher-reliable",
+   "name": "岚川 · 认真可靠老师",
+   "desc": "认真可靠 · 老师｜日常陪伴",
+   "file": "packs/teacher-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "teacher",
+   "extCount": 2
+  },
+  {
+   "id": "childhood-tsundere",
+   "name": "念 · 傲娇青梅",
+   "desc": "傲娇 · 青梅｜日常陪伴",
+   "file": "packs/childhood-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "childhood",
+   "extCount": 2
+  },
+  {
+   "id": "childhood-gentle",
+   "name": "念安 · 温柔治愈青梅",
+   "desc": "温柔治愈 · 青梅｜日常陪伴",
+   "file": "packs/childhood-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "childhood",
+   "extCount": 2
+  },
+  {
+   "id": "childhood-snark",
+   "name": "小念 · 毒舌青梅",
+   "desc": "毒舌 · 青梅｜日常陪伴",
+   "file": "packs/childhood-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "childhood",
+   "extCount": 2
+  },
+  {
+   "id": "childhood-airhead",
+   "name": "念音 · 天然呆青梅",
+   "desc": "天然呆 · 青梅｜日常陪伴",
+   "file": "packs/childhood-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "childhood",
+   "extCount": 2
+  },
+  {
+   "id": "childhood-schemer",
+   "name": "念铃 · 腹黑青梅",
+   "desc": "腹黑 · 青梅｜日常陪伴",
+   "file": "packs/childhood-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "childhood",
+   "extCount": 2
+  },
+  {
+   "id": "childhood-genki",
+   "name": "念奈 · 元气青梅",
+   "desc": "元气 · 青梅｜日常陪伴",
+   "file": "packs/childhood-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "childhood",
+   "extCount": 2
+  },
+  {
+   "id": "childhood-clingy",
+   "name": "念夏 · 黏人青梅",
+   "desc": "黏人 · 青梅｜日常陪伴",
+   "file": "packs/childhood-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "childhood",
+   "extCount": 2
+  },
+  {
+   "id": "childhood-cold",
+   "name": "念羽 · 冷淡青梅",
+   "desc": "冷淡 · 青梅｜日常陪伴",
+   "file": "packs/childhood-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "childhood",
+   "extCount": 2
+  },
+  {
+   "id": "childhood-imp",
+   "name": "念雪 · 小恶魔青梅",
+   "desc": "小恶魔 · 青梅｜日常陪伴",
+   "file": "packs/childhood-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "childhood",
+   "extCount": 2
+  },
+  {
+   "id": "childhood-reliable",
+   "name": "念棠 · 认真可靠青梅",
+   "desc": "认真可靠 · 青梅｜日常陪伴",
+   "file": "packs/childhood-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "childhood",
+   "extCount": 2
+  },
+  {
+   "id": "barista-tsundere",
+   "name": "漾 · 傲娇咖啡师",
+   "desc": "傲娇 · 咖啡师｜日常陪伴",
+   "file": "packs/barista-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "barista",
+   "extCount": 2
+  },
+  {
+   "id": "barista-gentle",
+   "name": "漾月 · 温柔治愈咖啡师",
+   "desc": "温柔治愈 · 咖啡师｜日常陪伴",
+   "file": "packs/barista-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "barista",
+   "extCount": 2
+  },
+  {
+   "id": "barista-snark",
+   "name": "小漾 · 毒舌咖啡师",
+   "desc": "毒舌 · 咖啡师｜日常陪伴",
+   "file": "packs/barista-snark.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "barista",
+   "extCount": 2
+  },
+  {
+   "id": "barista-airhead",
+   "name": "漾音 · 天然呆咖啡师",
+   "desc": "天然呆 · 咖啡师｜日常陪伴",
+   "file": "packs/barista-airhead.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "barista",
+   "extCount": 2
+  },
+  {
+   "id": "barista-schemer",
+   "name": "漾铃 · 腹黑咖啡师",
+   "desc": "腹黑 · 咖啡师｜日常陪伴",
+   "file": "packs/barista-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "barista",
+   "extCount": 2
+  },
+  {
+   "id": "barista-genki",
+   "name": "漾奈 · 元气咖啡师",
+   "desc": "元气 · 咖啡师｜日常陪伴",
+   "file": "packs/barista-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "barista",
+   "extCount": 2
+  },
+  {
+   "id": "barista-clingy",
+   "name": "漾夏 · 黏人咖啡师",
+   "desc": "黏人 · 咖啡师｜日常陪伴",
+   "file": "packs/barista-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "barista",
+   "extCount": 2
+  },
+  {
+   "id": "barista-cold",
+   "name": "漾羽 · 冷淡咖啡师",
+   "desc": "冷淡 · 咖啡师｜日常陪伴",
+   "file": "packs/barista-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "barista",
+   "extCount": 2
+  },
+  {
+   "id": "barista-imp",
+   "name": "漾雪 · 小恶魔咖啡师",
+   "desc": "小恶魔 · 咖啡师｜日常陪伴",
+   "file": "packs/barista-imp.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "barista",
+   "extCount": 2
+  },
+  {
+   "id": "barista-reliable",
+   "name": "漾青 · 认真可靠咖啡师",
+   "desc": "认真可靠 · 咖啡师｜日常陪伴",
+   "file": "packs/barista-reliable.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "barista",
+   "extCount": 2
+  },
+  {
+   "id": "cat-tsundere-y",
+   "name": "铃暮 · 傲娇猫娘（病娇向）",
+   "desc": "傲娇 · 猫娘｜病娇向（可选）",
+   "file": "packs/cat-tsundere-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 3
+  },
+  {
+   "id": "fox-schemer-y",
+   "name": "绯宵 · 腹黑狐娘（病娇向）",
+   "desc": "腹黑 · 狐娘｜病娇向（可选）",
+   "file": "packs/fox-schemer-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 3
+  },
+  {
+   "id": "boy-clingy-y",
+   "name": "枳寒 · 黏人男娘（病娇向）",
+   "desc": "黏人 · 男娘｜病娇向（可选）",
+   "file": "packs/boy-clingy-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 3
+  },
+  {
+   "id": "vamp-imp-y",
+   "name": "莉黯 · 小恶魔吸血鬼（病娇向）",
+   "desc": "小恶魔 · 吸血鬼｜病娇向（可选）",
+   "file": "packs/vamp-imp-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 3
+  },
+  {
+   "id": "mecha-cold-y",
+   "name": "诺零 · 冷淡机械少女（病娇向）",
+   "desc": "冷淡 · 机械少女｜病娇向（可选）",
+   "file": "packs/mecha-cold-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 3
+  },
+  {
+   "id": "wolf-genki-q",
+   "name": "牙冽 · 元气狼人（囚禁向·虚构）",
+   "desc": "元气 · 狼人｜囚禁向（虚构·双方同意·可随时退出）",
+   "file": "packs/wolf-genki-q.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "wolf",
+   "extCount": 3,
+   "warn": "囚禁向"
+  },
+  {
+   "id": "rabbit-airhead-q",
+   "name": "桃栖 · 天然呆兔娘（囚禁向·虚构）",
+   "desc": "天然呆 · 兔娘｜囚禁向（虚构·双方同意·可随时退出）",
+   "file": "packs/rabbit-airhead-q.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "rabbit",
+   "extCount": 3,
+   "warn": "囚禁向"
+  },
+  {
+   "id": "dragon-reliable-q",
+   "name": "凛霄 · 认真可靠龙娘（囚禁向·虚构）",
+   "desc": "认真可靠 · 龙娘｜囚禁向（虚构·双方同意·可随时退出）",
+   "file": "packs/dragon-reliable-q.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "dragon",
+   "extCount": 3,
+   "warn": "囚禁向"
+  },
+  {
+   "id": "mermaid-gentle-q",
+   "name": "汐沉 · 温柔治愈人鱼（囚禁向·虚构）",
+   "desc": "温柔治愈 · 人鱼｜囚禁向（虚构·双方同意·可随时退出）",
+   "file": "packs/mermaid-gentle-q.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mermaid",
+   "extCount": 3,
+   "warn": "囚禁向"
+  },
+  {
+   "id": "barista-snark-q",
+   "name": "漾夜 · 毒舌咖啡师（囚禁向·虚构）",
+   "desc": "毒舌 · 咖啡师｜囚禁向（虚构·双方同意·可随时退出）",
+   "file": "packs/barista-snark-q.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "barista",
+   "extCount": 3,
+   "warn": "囚禁向"
+  }
+ ]
 }
