@@ -1,0 +1,20 @@
+{
+  "updated": "2026-11-23",
+  "note": "zip 内含一个文件夹，文件夹里必须有 AI.md（入口清单：主设定 / 扩展包 / 名称 / 定位）",
+  "packs": [
+    {
+      "id": "linzhi-tsundere",
+      "name": "林枳 · 傲娇小男娘",
+      "desc": "主设定 + 扩展包×2（日常碎片 / 隐藏设定与红线），约 1.4 万字",
+      "file": "packs/linzhi-tsundere.zip",
+      "format": "zip"
+    },
+    {
+      "id": "dev-snark",
+      "name": "沈砚 · 毒舌程序员（示例）",
+      "desc": "写代码搭子，毒舌但靠谱；也是自己加包的模板",
+      "file": "packs/dev-snark.zip",
+      "format": "zip"
+    }
+  ]
+}
