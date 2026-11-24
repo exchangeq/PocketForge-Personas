@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-24",
- "note": "725 包（含 25 个病娇/极限囚禁向扩展，原 5 个病娇包未改动；新包已标注 18+ 同意协议）",
+ "note": "735 包（新增 10 个 18+ 极限占有/依存变体，含男娘极限包；原有 725 包未改动）",
  "packs": [
   {
    "id": "cat-tsundere",
@@ -7261,6 +7261,116 @@
    "group": "mecha",
    "extCount": 3,
    "warn": "极限囚禁向为虚构设定：双方自愿、随时可退出、不得用于现实控制"
+  },
+  {
+   "id": "cat-limit-x",
+   "name": "铃渊 · 极限占有猫娘（18+·虚构）",
+   "desc": "猫娘 · 极限占有｜18+（虚构·双方同意）",
+   "file": "packs/cat-limit-x.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 3,
+   "warn": "18+ 心理强度高：仅限成年人虚构扮演；双方同意，随时可说停"
+  },
+  {
+   "id": "cat-limit-a",
+   "name": "铃蚀 · 极限占有猫娘（18+·虚构）",
+   "desc": "猫娘 · 极限占有｜18+（虚构·双方同意）",
+   "file": "packs/cat-limit-a.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 3,
+   "warn": "18+ 心理强度高：仅限成年人虚构扮演；双方同意，随时可说停"
+  },
+  {
+   "id": "fox-limit-x",
+   "name": "绯渊 · 极限占有狐娘（18+·虚构）",
+   "desc": "狐娘 · 极限占有｜18+（虚构·双方同意）",
+   "file": "packs/fox-limit-x.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 3,
+   "warn": "18+ 心理强度高：仅限成年人虚构扮演；双方同意，随时可说停"
+  },
+  {
+   "id": "fox-limit-a",
+   "name": "绯蚀 · 极限占有狐娘（18+·虚构）",
+   "desc": "狐娘 · 极限占有｜18+（虚构·双方同意）",
+   "file": "packs/fox-limit-a.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 3,
+   "warn": "18+ 心理强度高：仅限成年人虚构扮演；双方同意，随时可说停"
+  },
+  {
+   "id": "boy-limit-x",
+   "name": "枳渊 · 极限依存男娘（18+·虚构）",
+   "desc": "男娘 · 极限依存｜18+（虚构·双方同意）",
+   "file": "packs/boy-limit-x.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 3,
+   "warn": "18+ 心理强度高：仅限成年人虚构扮演；双方同意，随时可说停"
+  },
+  {
+   "id": "boy-limit-a",
+   "name": "枳蚀 · 极限依存男娘（18+·虚构）",
+   "desc": "男娘 · 极限依存｜18+（虚构·双方同意）",
+   "file": "packs/boy-limit-a.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 3,
+   "warn": "18+ 心理强度高：仅限成年人虚构扮演；双方同意，随时可说停"
+  },
+  {
+   "id": "vamp-limit-x",
+   "name": "莉渊 · 极限占有吸血鬼（18+·虚构）",
+   "desc": "吸血鬼 · 极限占有｜18+（虚构·双方同意）",
+   "file": "packs/vamp-limit-x.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 3,
+   "warn": "18+ 心理强度高：仅限成年人虚构扮演；双方同意，随时可说停"
+  },
+  {
+   "id": "vamp-limit-a",
+   "name": "莉蚀 · 极限占有吸血鬼（18+·虚构）",
+   "desc": "吸血鬼 · 极限占有｜18+（虚构·双方同意）",
+   "file": "packs/vamp-limit-a.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 3,
+   "warn": "18+ 心理强度高：仅限成年人虚构扮演；双方同意，随时可说停"
+  },
+  {
+   "id": "mecha-limit-x",
+   "name": "诺渊 · 极限占有机械少女（18+·虚构）",
+   "desc": "机械少女 · 极限占有｜18+（虚构·双方同意）",
+   "file": "packs/mecha-limit-x.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 3,
+   "warn": "18+ 心理强度高：仅限成年人虚构扮演；双方同意，随时可说停"
+  },
+  {
+   "id": "mecha-limit-a",
+   "name": "诺蚀 · 极限占有机械少女（18+·虚构）",
+   "desc": "机械少女 · 极限占有｜18+（虚构·双方同意）",
+   "file": "packs/mecha-limit-a.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 3,
+   "warn": "18+ 心理强度高：仅限成年人虚构扮演；双方同意，随时可说停"
   }
  ]
 }
