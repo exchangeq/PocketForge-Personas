@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-24",
- "note": "700 个包：69 类角色 × 10 个专属名字（含 10 类二次元角色），病娇 5、囚禁 5。",
+ "note": "725 包（含 25 个病娇/极限囚禁向扩展，原 5 个病娇包未改动）",
  "packs": [
   {
    "id": "cat-tsundere",
@@ -7006,6 +7006,261 @@
    "type": "main",
    "group": "time-traveler",
    "extCount": 2
+  },
+  {
+   "id": "cat-gentle-y",
+   "name": "铃芽 · 温柔治愈猫娘（病娇向）",
+   "desc": "温柔治愈 · 猫娘｜病娇向（可选）",
+   "file": "packs/cat-gentle-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 3
+  },
+  {
+   "id": "cat-snark-y",
+   "name": "铃眠 · 毒舌猫娘（病娇向）",
+   "desc": "毒舌 · 猫娘｜病娇向（可选）",
+   "file": "packs/cat-snark-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 3
+  },
+  {
+   "id": "cat-airhead-y",
+   "name": "铃栖 · 天然呆猫娘（病娇向）",
+   "desc": "天然呆 · 猫娘｜病娇向（可选）",
+   "file": "packs/cat-airhead-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 3
+  },
+  {
+   "id": "cat-genki-y",
+   "name": "铃鸢 · 元气猫娘（病娇向）",
+   "desc": "元气 · 猫娘｜病娇向（可选）",
+   "file": "packs/cat-genki-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 3
+  },
+  {
+   "id": "cat-clingy-q",
+   "name": "铃霁 · 黏人猫娘（极限·囚禁向·虚构）",
+   "desc": "黏人 · 猫娘｜极限·囚禁向（虚构）",
+   "file": "packs/cat-clingy-q.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "cat",
+   "extCount": 3,
+   "warn": "极限囚禁向为虚构设定：双方自愿、随时可退出、不得用于现实控制"
+  },
+  {
+   "id": "fox-gentle-y",
+   "name": "绯芽 · 温柔治愈狐娘（病娇向）",
+   "desc": "温柔治愈 · 狐娘｜病娇向（可选）",
+   "file": "packs/fox-gentle-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 3
+  },
+  {
+   "id": "fox-cold-y",
+   "name": "绯眠 · 冷淡狐娘（病娇向）",
+   "desc": "冷淡 · 狐娘｜病娇向（可选）",
+   "file": "packs/fox-cold-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 3
+  },
+  {
+   "id": "fox-airhead-y",
+   "name": "绯栖 · 天然呆狐娘（病娇向）",
+   "desc": "天然呆 · 狐娘｜病娇向（可选）",
+   "file": "packs/fox-airhead-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 3
+  },
+  {
+   "id": "fox-reliable-y",
+   "name": "绯鸢 · 认真可靠狐娘（病娇向）",
+   "desc": "认真可靠 · 狐娘｜病娇向（可选）",
+   "file": "packs/fox-reliable-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 3
+  },
+  {
+   "id": "fox-tsundere-q",
+   "name": "绯霁 · 傲娇狐娘（极限·囚禁向·虚构）",
+   "desc": "傲娇 · 狐娘｜极限·囚禁向（虚构）",
+   "file": "packs/fox-tsundere-q.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "fox",
+   "extCount": 3,
+   "warn": "极限囚禁向为虚构设定：双方自愿、随时可退出、不得用于现实控制"
+  },
+  {
+   "id": "boy-gentle-y",
+   "name": "枳芽 · 温柔治愈男娘（病娇向）",
+   "desc": "温柔治愈 · 男娘｜病娇向（可选）",
+   "file": "packs/boy-gentle-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 3
+  },
+  {
+   "id": "boy-snark-y",
+   "name": "枳眠 · 毒舌男娘（病娇向）",
+   "desc": "毒舌 · 男娘｜病娇向（可选）",
+   "file": "packs/boy-snark-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 3
+  },
+  {
+   "id": "boy-cold-y",
+   "name": "枳栖 · 冷淡男娘（病娇向）",
+   "desc": "冷淡 · 男娘｜病娇向（可选）",
+   "file": "packs/boy-cold-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 3
+  },
+  {
+   "id": "boy-airhead-y",
+   "name": "枳鸢 · 天然呆男娘（病娇向）",
+   "desc": "天然呆 · 男娘｜病娇向（可选）",
+   "file": "packs/boy-airhead-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 3
+  },
+  {
+   "id": "boy-schemer-q",
+   "name": "枳霁 · 腹黑男娘（极限·囚禁向·虚构）",
+   "desc": "腹黑 · 男娘｜极限·囚禁向（虚构）",
+   "file": "packs/boy-schemer-q.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "boy",
+   "extCount": 3,
+   "warn": "极限囚禁向为虚构设定：双方自愿、随时可退出、不得用于现实控制"
+  },
+  {
+   "id": "vamp-schemer-y",
+   "name": "莉芽 · 腹黑吸血鬼（病娇向）",
+   "desc": "腹黑 · 吸血鬼｜病娇向（可选）",
+   "file": "packs/vamp-schemer-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 3
+  },
+  {
+   "id": "vamp-gentle-y",
+   "name": "莉眠 · 温柔治愈吸血鬼（病娇向）",
+   "desc": "温柔治愈 · 吸血鬼｜病娇向（可选）",
+   "file": "packs/vamp-gentle-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 3
+  },
+  {
+   "id": "vamp-snark-y",
+   "name": "莉栖 · 毒舌吸血鬼（病娇向）",
+   "desc": "毒舌 · 吸血鬼｜病娇向（可选）",
+   "file": "packs/vamp-snark-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 3
+  },
+  {
+   "id": "vamp-genki-y",
+   "name": "莉鸢 · 元气吸血鬼（病娇向）",
+   "desc": "元气 · 吸血鬼｜病娇向（可选）",
+   "file": "packs/vamp-genki-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 3
+  },
+  {
+   "id": "vamp-cold-q",
+   "name": "莉霁 · 冷淡吸血鬼（极限·囚禁向·虚构）",
+   "desc": "冷淡 · 吸血鬼｜极限·囚禁向（虚构）",
+   "file": "packs/vamp-cold-q.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "vamp",
+   "extCount": 3,
+   "warn": "极限囚禁向为虚构设定：双方自愿、随时可退出、不得用于现实控制"
+  },
+  {
+   "id": "mecha-reliable-y",
+   "name": "诺芽 · 认真可靠机械少女（病娇向）",
+   "desc": "认真可靠 · 机械少女｜病娇向（可选）",
+   "file": "packs/mecha-reliable-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 3
+  },
+  {
+   "id": "mecha-gentle-y",
+   "name": "诺眠 · 温柔治愈机械少女（病娇向）",
+   "desc": "温柔治愈 · 机械少女｜病娇向（可选）",
+   "file": "packs/mecha-gentle-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 3
+  },
+  {
+   "id": "mecha-snark-y",
+   "name": "诺栖 · 毒舌机械少女（病娇向）",
+   "desc": "毒舌 · 机械少女｜病娇向（可选）",
+   "file": "packs/mecha-snark-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 3
+  },
+  {
+   "id": "mecha-airhead-y",
+   "name": "诺鸢 · 天然呆机械少女（病娇向）",
+   "desc": "天然呆 · 机械少女｜病娇向（可选）",
+   "file": "packs/mecha-airhead-y.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 3
+  },
+  {
+   "id": "mecha-tsundere-q",
+   "name": "诺霁 · 傲娇机械少女（极限·囚禁向·虚构）",
+   "desc": "傲娇 · 机械少女｜极限·囚禁向（虚构）",
+   "file": "packs/mecha-tsundere-q.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "mecha",
+   "extCount": 3,
+   "warn": "极限囚禁向为虚构设定：双方自愿、随时可退出、不得用于现实控制"
   }
  ]
 }
