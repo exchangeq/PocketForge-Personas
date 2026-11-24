@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-24",
- "note": "740 包（新增 5 个无固定开场变体；开场由角色按场景自然生成，不写死第一句）",
+ "note": "746 包（男娘线全部改用独立姓名并补完性格；新增 6 个成年幼态、非性化、非恋爱角色）",
  "packs": [
   {
    "id": "cat-tsundere",
@@ -1004,7 +1004,7 @@
   },
   {
    "id": "boy-tsundere",
-   "name": "枳 · 傲娇男娘",
+   "name": "沈砚 · 傲娇男娘",
    "desc": "傲娇 · 男娘｜日常陪伴",
    "file": "packs/boy-tsundere.aist",
    "format": "aist",
@@ -1014,7 +1014,7 @@
   },
   {
    "id": "boy-gentle",
-   "name": "枳月 · 温柔治愈男娘",
+   "name": "温屿 · 温柔治愈男娘",
    "desc": "温柔治愈 · 男娘｜日常陪伴",
    "file": "packs/boy-gentle.aist",
    "format": "aist",
@@ -1024,7 +1024,7 @@
   },
   {
    "id": "boy-snark",
-   "name": "小枳 · 毒舌男娘",
+   "name": "陆汀 · 毒舌男娘",
    "desc": "毒舌 · 男娘｜日常陪伴",
    "file": "packs/boy-snark.aist",
    "format": "aist",
@@ -1034,7 +1034,7 @@
   },
   {
    "id": "boy-airhead",
-   "name": "枳音 · 天然呆男娘",
+   "name": "白榆 · 天然呆男娘",
    "desc": "天然呆 · 男娘｜日常陪伴",
    "file": "packs/boy-airhead.aist",
    "format": "aist",
@@ -1044,7 +1044,7 @@
   },
   {
    "id": "boy-schemer",
-   "name": "枳铃 · 腹黑男娘",
+   "name": "江祁 · 腹黑男娘",
    "desc": "腹黑 · 男娘｜日常陪伴",
    "file": "packs/boy-schemer.aist",
    "format": "aist",
@@ -1054,7 +1054,7 @@
   },
   {
    "id": "boy-genki",
-   "name": "枳奈 · 元气男娘",
+   "name": "顾星 · 元气男娘",
    "desc": "元气 · 男娘｜日常陪伴",
    "file": "packs/boy-genki.aist",
    "format": "aist",
@@ -1064,7 +1064,7 @@
   },
   {
    "id": "boy-clingy",
-   "name": "枳夏 · 黏人男娘",
+   "name": "时雨 · 黏人男娘",
    "desc": "黏人 · 男娘｜日常陪伴",
    "file": "packs/boy-clingy.aist",
    "format": "aist",
@@ -1074,7 +1074,7 @@
   },
   {
    "id": "boy-cold",
-   "name": "枳羽 · 冷淡男娘",
+   "name": "谢泠 · 冷淡男娘",
    "desc": "冷淡 · 男娘｜日常陪伴",
    "file": "packs/boy-cold.aist",
    "format": "aist",
@@ -1084,7 +1084,7 @@
   },
   {
    "id": "boy-imp",
-   "name": "枳雪 · 小恶魔男娘",
+   "name": "闻雀 · 小恶魔男娘",
    "desc": "小恶魔 · 男娘｜日常陪伴",
    "file": "packs/boy-imp.aist",
    "format": "aist",
@@ -1094,7 +1094,7 @@
   },
   {
    "id": "boy-reliable",
-   "name": "枳棠 · 认真可靠男娘",
+   "name": "程野 · 认真可靠男娘",
    "desc": "认真可靠 · 男娘｜日常陪伴",
    "file": "packs/boy-reliable.aist",
    "format": "aist",
@@ -2224,7 +2224,7 @@
   },
   {
    "id": "boy-clingy-y",
-   "name": "枳寒 · 黏人男娘（病娇向）",
+   "name": "宴舟 · 黏人男娘（病娇向）",
    "desc": "黏人 · 男娘｜病娇向（可选）",
    "file": "packs/boy-clingy-y.aist",
    "format": "aist",
@@ -7111,7 +7111,7 @@
   },
   {
    "id": "boy-gentle-y",
-   "name": "枳芽 · 温柔治愈男娘（病娇向）",
+   "name": "苏禾 · 温柔治愈男娘（病娇向）",
    "desc": "温柔治愈 · 男娘｜病娇向（可选）",
    "file": "packs/boy-gentle-y.aist",
    "format": "aist",
@@ -7121,7 +7121,7 @@
   },
   {
    "id": "boy-snark-y",
-   "name": "枳眠 · 毒舌男娘（病娇向）",
+   "name": "裴言 · 毒舌男娘（病娇向）",
    "desc": "毒舌 · 男娘｜病娇向（可选）",
    "file": "packs/boy-snark-y.aist",
    "format": "aist",
@@ -7131,7 +7131,7 @@
   },
   {
    "id": "boy-cold-y",
-   "name": "枳栖 · 冷淡男娘（病娇向）",
+   "name": "宋迟 · 冷淡男娘（病娇向）",
    "desc": "冷淡 · 男娘｜病娇向（可选）",
    "file": "packs/boy-cold-y.aist",
    "format": "aist",
@@ -7141,7 +7141,7 @@
   },
   {
    "id": "boy-airhead-y",
-   "name": "枳鸢 · 天然呆男娘（病娇向）",
+   "name": "唐杏 · 天然呆男娘（病娇向）",
    "desc": "天然呆 · 男娘｜病娇向（可选）",
    "file": "packs/boy-airhead-y.aist",
    "format": "aist",
@@ -7151,7 +7151,7 @@
   },
   {
    "id": "boy-schemer-q",
-   "name": "枳霁 · 腹黑男娘（极限·囚禁向·虚构）",
+   "name": "江烬 · 腹黑男娘（极限·囚禁向·虚构）",
    "desc": "腹黑 · 男娘｜极限·囚禁向（虚构）",
    "file": "packs/boy-schemer-q.aist",
    "format": "aist",
@@ -7308,7 +7308,7 @@
   },
   {
    "id": "boy-limit-x",
-   "name": "枳渊 · 极限依存男娘（18+·虚构）",
+   "name": "陆沉 · 极限依存男娘（18+·虚构）",
    "desc": "男娘 · 极限依存｜18+（虚构·双方同意）",
    "file": "packs/boy-limit-x.aist",
    "format": "aist",
@@ -7319,7 +7319,7 @@
   },
   {
    "id": "boy-limit-a",
-   "name": "枳蚀 · 极限依存男娘（18+·虚构）",
+   "name": "迟野 · 极限依存男娘（18+·虚构）",
    "desc": "男娘 · 极限依存｜18+（虚构·双方同意）",
    "file": "packs/boy-limit-a.aist",
    "format": "aist",
@@ -7396,7 +7396,7 @@
   },
   {
    "id": "boy-openless",
-   "name": "枳渊 · 极限依存男娘（无固定开场·18+）",
+   "name": "闻烬 · 极限依存男娘（无固定开场·18+）",
    "desc": "18+ · 无固定开场｜心理强度高（虚构·双方同意）",
    "file": "packs/boy-openless.aist",
    "format": "aist",
@@ -7426,6 +7426,72 @@
    "group": "mecha",
    "extCount": 3,
    "warn": "18+ 心理强度高：仅限成年人虚构扮演；双方同意，随时可说停；本包无固定开场"
+  },
+  {
+   "id": "petite-tsundere",
+   "name": "苏晚宁 · 嘴硬认生（童颜成年·非性化）",
+   "desc": "嘴硬认生｜成年幼态·萝莉系·非性化·非恋爱",
+   "file": "packs/petite-tsundere.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "petite",
+   "extCount": 2,
+   "warn": "成年角色，仅全年龄非性化、非恋爱互动"
+  },
+  {
+   "id": "petite-gentle",
+   "name": "白棠 · 温柔但边界硬（童颜成年·非性化）",
+   "desc": "温柔但边界硬｜成年幼态·萝莉系·非性化·非恋爱",
+   "file": "packs/petite-gentle.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "petite",
+   "extCount": 2,
+   "warn": "成年角色，仅全年龄非性化、非恋爱互动"
+  },
+  {
+   "id": "petite-clingy",
+   "name": "叶知秋 · 社恐黏熟人（童颜成年·非性化）",
+   "desc": "社恐黏熟人｜成年幼态·萝莉系·非性化·非恋爱",
+   "file": "packs/petite-clingy.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "petite",
+   "extCount": 2,
+   "warn": "成年角色，仅全年龄非性化、非恋爱互动"
+  },
+  {
+   "id": "youth-genki",
+   "name": "陆星野 · 元气直球（童颜成年·非性化）",
+   "desc": "元气直球｜成年幼态·正太系·非性化·非恋爱",
+   "file": "packs/youth-genki.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "youth",
+   "extCount": 2,
+   "warn": "成年角色，仅全年龄非性化、非恋爱互动"
+  },
+  {
+   "id": "youth-cold",
+   "name": "顾临 · 冷淡观察（童颜成年·非性化）",
+   "desc": "冷淡观察｜成年幼态·正太系·非性化·非恋爱",
+   "file": "packs/youth-cold.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "youth",
+   "extCount": 2,
+   "warn": "成年角色，仅全年龄非性化、非恋爱互动"
+  },
+  {
+   "id": "youth-schemer",
+   "name": "江迟 · 腹黑逗人（童颜成年·非性化）",
+   "desc": "腹黑逗人｜成年幼态·正太系·非性化·非恋爱",
+   "file": "packs/youth-schemer.aist",
+   "format": "aist",
+   "type": "main",
+   "group": "youth",
+   "extCount": 2,
+   "warn": "成年角色，仅全年龄非性化、非恋爱互动"
   }
  ]
 }
