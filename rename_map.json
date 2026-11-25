@@ -1,0 +1,3182 @@
+{
+  "count": 794,
+  "updated": "2026-11-25",
+  "map": {
+    "cat-tsundere": [
+      "铃",
+      "石朵"
+    ],
+    "cat-gentle": [
+      "铃音",
+      "舒荔"
+    ],
+    "cat-snark": [
+      "铃铛",
+      "帅照"
+    ],
+    "cat-airhead": [
+      "铃乃",
+      "司葵"
+    ],
+    "cat-schemer": [
+      "铃羽",
+      "松满"
+    ],
+    "cat-genki": [
+      "铃奈",
+      "谈枝"
+    ],
+    "cat-clingy": [
+      "铃夏",
+      "谭梨"
+    ],
+    "cat-cold": [
+      "铃秋",
+      "汤眠"
+    ],
+    "cat-imp": [
+      "铃雪",
+      "佟雾"
+    ],
+    "cat-reliable": [
+      "铃雾",
+      "童回"
+    ],
+    "fox-tsundere": [
+      "绯",
+      "赵屿"
+    ],
+    "fox-gentle": [
+      "绯月",
+      "甄澈"
+    ],
+    "fox-snark": [
+      "小绯",
+      "郑朵"
+    ],
+    "fox-airhead": [
+      "绯铃",
+      "钟荔"
+    ],
+    "fox-schemer": [
+      "绯夜",
+      "朱照"
+    ],
+    "fox-genki": [
+      "绯棠",
+      "诸葵"
+    ],
+    "fox-clingy": [
+      "绯鸢",
+      "祝满"
+    ],
+    "fox-cold": [
+      "绯璃",
+      "庄枝"
+    ],
+    "fox-imp": [
+      "绯音",
+      "卓梨"
+    ],
+    "fox-reliable": [
+      "绯雪",
+      "宗眠"
+    ],
+    "rabbit-tsundere": [
+      "桃",
+      "梅枝"
+    ],
+    "rabbit-gentle": [
+      "桃桃",
+      "孟梨"
+    ],
+    "rabbit-snark": [
+      "小桃",
+      "米眠"
+    ],
+    "rabbit-airhead": [
+      "桃月",
+      "苗雾"
+    ],
+    "rabbit-schemer": [
+      "桃铃",
+      "莫回"
+    ],
+    "rabbit-genki": [
+      "桃夭",
+      "穆星"
+    ],
+    "rabbit-clingy": [
+      "桃奈",
+      "牛月"
+    ],
+    "rabbit-cold": [
+      "桃夏",
+      "潘风"
+    ],
+    "rabbit-imp": [
+      "桃柚",
+      "庞雨"
+    ],
+    "rabbit-reliable": [
+      "桃雪",
+      "彭雪"
+    ],
+    "dog-tsundere": [
+      "柚",
+      "霍回"
+    ],
+    "dog-gentle": [
+      "柚木",
+      "嵇星"
+    ],
+    "dog-snark": [
+      "小柚",
+      "靳月"
+    ],
+    "dog-airhead": [
+      "柚希",
+      "阚风"
+    ],
+    "dog-schemer": [
+      "柚月",
+      "柯雨"
+    ],
+    "dog-genki": [
+      "柚铃",
+      "匡雪"
+    ],
+    "dog-clingy": [
+      "柚奈",
+      "冷露"
+    ],
+    "dog-cold": [
+      "柚夏",
+      "凌晨"
+    ],
+    "dog-imp": [
+      "柚橙",
+      "卢曦"
+    ],
+    "dog-reliable": [
+      "柚雪",
+      "骆晴"
+    ],
+    "dragon-tsundere": [
+      "凛",
+      "马岚"
+    ],
+    "dragon-gentle": [
+      "凛月",
+      "梅知"
+    ],
+    "dragon-snark": [
+      "小凛",
+      "孟砚"
+    ],
+    "dragon-airhead": [
+      "凛音",
+      "米舟"
+    ],
+    "dragon-schemer": [
+      "凛夜",
+      "苗棠"
+    ],
+    "dragon-genki": [
+      "凛棠",
+      "莫栀"
+    ],
+    "dragon-clingy": [
+      "凛鸢",
+      "穆鹿"
+    ],
+    "dragon-cold": [
+      "凛璃",
+      "牛溪"
+    ],
+    "dragon-imp": [
+      "凛夏",
+      "潘澜"
+    ],
+    "dragon-reliable": [
+      "凛雪",
+      "庞晚"
+    ],
+    "elf-tsundere": [
+      "希尔",
+      "石祈"
+    ],
+    "elf-gentle": [
+      "希露",
+      "舒霜"
+    ],
+    "elf-snark": [
+      "小希",
+      "帅微"
+    ],
+    "elf-airhead": [
+      "希雅",
+      "司屿"
+    ],
+    "elf-schemer": [
+      "希铃",
+      "松澈"
+    ],
+    "elf-genki": [
+      "希奈",
+      "谈朵"
+    ],
+    "elf-clingy": [
+      "希月",
+      "谭荔"
+    ],
+    "elf-cold": [
+      "希夏",
+      "汤照"
+    ],
+    "elf-imp": [
+      "希羽",
+      "佟葵"
+    ],
+    "elf-reliable": [
+      "希雪",
+      "童满"
+    ],
+    "vamp-tsundere": [
+      "莉娅",
+      "钱月"
+    ],
+    "vamp-gentle": [
+      "莉亚",
+      "强风"
+    ],
+    "vamp-snark": [
+      "小莉",
+      "邱雨"
+    ],
+    "vamp-airhead": [
+      "莉丝",
+      "曲雪"
+    ],
+    "vamp-schemer": [
+      "莉音",
+      "桑露"
+    ],
+    "vamp-genki": [
+      "莉奈",
+      "邵晨"
+    ],
+    "vamp-clingy": [
+      "莉月",
+      "佘曦"
+    ],
+    "vamp-cold": [
+      "莉夏",
+      "申晴"
+    ],
+    "vamp-imp": [
+      "莉羽",
+      "盛岚"
+    ],
+    "vamp-reliable": [
+      "莉雪",
+      "石知"
+    ],
+    "mecha-tsundere": [
+      "诺亚",
+      "傅渡"
+    ],
+    "mecha-gentle": [
+      "诺亚零",
+      "纪时"
+    ],
+    "mecha-snark": [
+      "小诺",
+      "蒋燃"
+    ],
+    "mecha-airhead": [
+      "诺依",
+      "卫川"
+    ],
+    "mecha-schemer": [
+      "诺铃",
+      "陶然"
+    ],
+    "mecha-genki": [
+      "诺奈",
+      "柏言"
+    ],
+    "mecha-clingy": [
+      "诺月",
+      "岑叙"
+    ],
+    "mecha-cold": [
+      "诺夏",
+      "池墨"
+    ],
+    "mecha-imp": [
+      "诺羽",
+      "褚祈"
+    ],
+    "mecha-reliable": [
+      "诺雪",
+      "窦霜"
+    ],
+    "mermaid-tsundere": [
+      "汐",
+      "牛晨"
+    ],
+    "mermaid-gentle": [
+      "汐音",
+      "潘曦"
+    ],
+    "mermaid-snark": [
+      "小汐",
+      "庞晴"
+    ],
+    "mermaid-airhead": [
+      "汐月",
+      "彭岚"
+    ],
+    "mermaid-schemer": [
+      "汐铃",
+      "祁知"
+    ],
+    "mermaid-genki": [
+      "汐奈",
+      "钱砚"
+    ],
+    "mermaid-clingy": [
+      "汐夏",
+      "强舟"
+    ],
+    "mermaid-cold": [
+      "汐羽",
+      "邱棠"
+    ],
+    "mermaid-imp": [
+      "汐雪",
+      "曲栀"
+    ],
+    "mermaid-reliable": [
+      "汐蓝",
+      "桑鹿"
+    ],
+    "wolf-tsundere": [
+      "牙",
+      "袁露"
+    ],
+    "wolf-gentle": [
+      "牙月",
+      "岳晨"
+    ],
+    "wolf-snark": [
+      "小牙",
+      "云曦"
+    ],
+    "wolf-airhead": [
+      "牙狼",
+      "曾晴"
+    ],
+    "wolf-schemer": [
+      "牙铃",
+      "翟岚"
+    ],
+    "wolf-genki": [
+      "牙奈",
+      "詹知"
+    ],
+    "wolf-clingy": [
+      "牙夏",
+      "张砚"
+    ],
+    "wolf-cold": [
+      "牙羽",
+      "章舟"
+    ],
+    "wolf-imp": [
+      "牙雪",
+      "赵棠"
+    ],
+    "wolf-reliable": [
+      "牙影",
+      "甄栀"
+    ],
+    "boy-tsundere": [
+      "沈砚",
+      "孟溪"
+    ],
+    "boy-gentle": [
+      "温屿",
+      "米澜"
+    ],
+    "boy-snark": [
+      "陆汀",
+      "苗晚"
+    ],
+    "boy-airhead": [
+      "白榆",
+      "莫遥"
+    ],
+    "boy-schemer": [
+      "江祁",
+      "穆予"
+    ],
+    "boy-genki": [
+      "顾星",
+      "牛淮"
+    ],
+    "boy-clingy": [
+      "时雨",
+      "潘渡"
+    ],
+    "boy-cold": [
+      "谢泠",
+      "庞时"
+    ],
+    "boy-imp": [
+      "闻雀",
+      "彭燃"
+    ],
+    "boy-reliable": [
+      "程野",
+      "祁川"
+    ],
+    "senpai-tsundere": [
+      "澜",
+      "岳砚"
+    ],
+    "senpai-gentle": [
+      "澜月",
+      "云舟"
+    ],
+    "senpai-snark": [
+      "小澜",
+      "曾棠"
+    ],
+    "senpai-airhead": [
+      "澜音",
+      "翟栀"
+    ],
+    "senpai-schemer": [
+      "澜铃",
+      "詹鹿"
+    ],
+    "senpai-genki": [
+      "澜奈",
+      "张溪"
+    ],
+    "senpai-clingy": [
+      "澜夏",
+      "章澜"
+    ],
+    "senpai-cold": [
+      "澜羽",
+      "赵晚"
+    ],
+    "senpai-imp": [
+      "澜雪",
+      "甄遥"
+    ],
+    "senpai-reliable": [
+      "澜清",
+      "郑予"
+    ],
+    "kouhai-tsundere": [
+      "柠",
+      "邢曦"
+    ],
+    "kouhai-gentle": [
+      "柠月",
+      "徐晴"
+    ],
+    "kouhai-snark": [
+      "小柠",
+      "薛岚"
+    ],
+    "kouhai-airhead": [
+      "柠音",
+      "严知"
+    ],
+    "kouhai-schemer": [
+      "柠铃",
+      "晏砚"
+    ],
+    "kouhai-genki": [
+      "柠奈",
+      "杨舟"
+    ],
+    "kouhai-clingy": [
+      "柠夏",
+      "姚棠"
+    ],
+    "kouhai-cold": [
+      "柠羽",
+      "应栀"
+    ],
+    "kouhai-imp": [
+      "柠雪",
+      "游鹿"
+    ],
+    "kouhai-reliable": [
+      "柠棠",
+      "于溪"
+    ],
+    "maid-tsundere": [
+      "茉",
+      "宋风"
+    ],
+    "maid-gentle": [
+      "茉白",
+      "裴雨"
+    ],
+    "maid-snark": [
+      "小茉",
+      "谢雪"
+    ],
+    "maid-airhead": [
+      "茉音",
+      "闻露"
+    ],
+    "maid-schemer": [
+      "茉铃",
+      "黎晨"
+    ],
+    "maid-genki": [
+      "茉奈",
+      "苏曦"
+    ],
+    "maid-clingy": [
+      "茉夏",
+      "程晴"
+    ],
+    "maid-cold": [
+      "茉羽",
+      "唐岚"
+    ],
+    "maid-imp": [
+      "茉雪",
+      "叶知"
+    ],
+    "maid-reliable": [
+      "茉里",
+      "周砚"
+    ],
+    "knight-tsundere": [
+      "瑟",
+      "翁眠"
+    ],
+    "knight-gentle": [
+      "瑟兰",
+      "巫雾"
+    ],
+    "knight-snark": [
+      "小瑟",
+      "邬回"
+    ],
+    "knight-airhead": [
+      "瑟音",
+      "吴星"
+    ],
+    "knight-schemer": [
+      "瑟铃",
+      "伍月"
+    ],
+    "knight-genki": [
+      "瑟奈",
+      "武风"
+    ],
+    "knight-clingy": [
+      "瑟夏",
+      "席雨"
+    ],
+    "knight-cold": [
+      "瑟羽",
+      "项雪"
+    ],
+    "knight-imp": [
+      "瑟雪",
+      "萧露"
+    ],
+    "knight-reliable": [
+      "瑟恩",
+      "辛晨"
+    ],
+    "miko-tsundere": [
+      "葵",
+      "佘澜"
+    ],
+    "miko-gentle": [
+      "葵月",
+      "申晚"
+    ],
+    "miko-snark": [
+      "小葵",
+      "盛遥"
+    ],
+    "miko-airhead": [
+      "葵音",
+      "石予"
+    ],
+    "miko-schemer": [
+      "葵铃",
+      "舒淮"
+    ],
+    "miko-genki": [
+      "葵奈",
+      "帅渡"
+    ],
+    "miko-clingy": [
+      "葵夏",
+      "司时"
+    ],
+    "miko-cold": [
+      "葵羽",
+      "松燃"
+    ],
+    "miko-imp": [
+      "葵雪",
+      "谈川"
+    ],
+    "miko-reliable": [
+      "葵霜",
+      "谭然"
+    ],
+    "idol-tsundere": [
+      "光",
+      "卢风"
+    ],
+    "idol-gentle": [
+      "光希",
+      "骆雨"
+    ],
+    "idol-snark": [
+      "小光",
+      "马雪"
+    ],
+    "idol-airhead": [
+      "光音",
+      "梅露"
+    ],
+    "idol-schemer": [
+      "光铃",
+      "孟晨"
+    ],
+    "idol-genki": [
+      "光奈",
+      "米曦"
+    ],
+    "idol-clingy": [
+      "光夏",
+      "苗晴"
+    ],
+    "idol-cold": [
+      "光羽",
+      "莫岚"
+    ],
+    "idol-imp": [
+      "光雪",
+      "穆知"
+    ],
+    "idol-reliable": [
+      "光织",
+      "牛砚"
+    ],
+    "detective-tsundere": [
+      "雾",
+      "谢栀"
+    ],
+    "detective-gentle": [
+      "雾岛",
+      "闻鹿"
+    ],
+    "detective-snark": [
+      "小雾",
+      "黎溪"
+    ],
+    "detective-airhead": [
+      "雾音",
+      "苏澜"
+    ],
+    "detective-schemer": [
+      "雾铃",
+      "程晚"
+    ],
+    "detective-genki": [
+      "雾奈",
+      "唐遥"
+    ],
+    "detective-clingy": [
+      "雾夏",
+      "叶予"
+    ],
+    "detective-cold": [
+      "雾羽",
+      "周淮"
+    ],
+    "detective-imp": [
+      "雾雪",
+      "季渡"
+    ],
+    "detective-reliable": [
+      "雾见",
+      "白时"
+    ],
+    "doctor-tsundere": [
+      "白",
+      "蒋澈"
+    ],
+    "doctor-gentle": [
+      "白露",
+      "卫朵"
+    ],
+    "doctor-snark": [
+      "小白",
+      "陶荔"
+    ],
+    "doctor-airhead": [
+      "白音",
+      "柏照"
+    ],
+    "doctor-schemer": [
+      "白铃",
+      "岑葵"
+    ],
+    "doctor-genki": [
+      "白奈",
+      "池满"
+    ],
+    "doctor-clingy": [
+      "白夏",
+      "褚枝"
+    ],
+    "doctor-cold": [
+      "白羽",
+      "窦梨"
+    ],
+    "doctor-imp": [
+      "白雪",
+      "樊眠"
+    ],
+    "doctor-reliable": [
+      "白芷",
+      "管雾"
+    ],
+    "teacher-tsundere": [
+      "岚",
+      "靳然"
+    ],
+    "teacher-gentle": [
+      "岚月",
+      "阚言"
+    ],
+    "teacher-snark": [
+      "小岚",
+      "柯叙"
+    ],
+    "teacher-airhead": [
+      "岚音",
+      "匡墨"
+    ],
+    "teacher-schemer": [
+      "岚铃",
+      "冷祈"
+    ],
+    "teacher-genki": [
+      "岚奈",
+      "凌霜"
+    ],
+    "teacher-clingy": [
+      "岚夏",
+      "卢微"
+    ],
+    "teacher-cold": [
+      "岚羽",
+      "骆屿"
+    ],
+    "teacher-imp": [
+      "岚雪",
+      "马澈"
+    ],
+    "teacher-reliable": [
+      "岚川",
+      "梅朵"
+    ],
+    "childhood-tsundere": [
+      "念",
+      "邬岚"
+    ],
+    "childhood-gentle": [
+      "念安",
+      "吴知"
+    ],
+    "childhood-snark": [
+      "小念",
+      "伍砚"
+    ],
+    "childhood-airhead": [
+      "念音",
+      "武舟"
+    ],
+    "childhood-schemer": [
+      "念铃",
+      "席棠"
+    ],
+    "childhood-genki": [
+      "念奈",
+      "项栀"
+    ],
+    "childhood-clingy": [
+      "念夏",
+      "萧鹿"
+    ],
+    "childhood-cold": [
+      "念羽",
+      "辛溪"
+    ],
+    "childhood-imp": [
+      "念雪",
+      "邢澜"
+    ],
+    "childhood-reliable": [
+      "念棠",
+      "徐晚"
+    ],
+    "barista-tsundere": [
+      "漾",
+      "韩祈"
+    ],
+    "barista-gentle": [
+      "漾月",
+      "罗霜"
+    ],
+    "barista-snark": [
+      "小漾",
+      "魏微"
+    ],
+    "barista-airhead": [
+      "漾音",
+      "夏屿"
+    ],
+    "barista-schemer": [
+      "漾铃",
+      "乔澈"
+    ],
+    "barista-genki": [
+      "漾奈",
+      "简朵"
+    ],
+    "barista-clingy": [
+      "漾夏",
+      "宁荔"
+    ],
+    "barista-cold": [
+      "漾羽",
+      "傅照"
+    ],
+    "barista-imp": [
+      "漾雪",
+      "纪葵"
+    ],
+    "barista-reliable": [
+      "漾青",
+      "蒋满"
+    ],
+    "cat-tsundere-y": [
+      "铃暮",
+      "涂星"
+    ],
+    "fox-schemer-y": [
+      "绯宵",
+      "邹雾"
+    ],
+    "boy-clingy-y": [
+      "宴舟",
+      "钱然"
+    ],
+    "vamp-imp-y": [
+      "莉黯",
+      "舒砚"
+    ],
+    "mecha-cold-y": [
+      "诺零",
+      "樊微"
+    ],
+    "wolf-genki-q": [
+      "牙冽",
+      "郑鹿"
+    ],
+    "rabbit-airhead-q": [
+      "桃栖",
+      "祁露"
+    ],
+    "dragon-reliable-q": [
+      "凛霄",
+      "彭遥"
+    ],
+    "mermaid-gentle-q": [
+      "汐沉",
+      "邵溪"
+    ],
+    "barista-snark-q": [
+      "漾夜",
+      "卫枝"
+    ],
+    "nurse-tsundere": [
+      "澄",
+      "翁照"
+    ],
+    "nurse-gentle": [
+      "澄月",
+      "巫葵"
+    ],
+    "nurse-snark": [
+      "澄音",
+      "邬满"
+    ],
+    "nurse-airhead": [
+      "澄奈",
+      "吴枝"
+    ],
+    "nurse-schemer": [
+      "澄夏",
+      "伍梨"
+    ],
+    "nurse-genki": [
+      "澄羽",
+      "武眠"
+    ],
+    "nurse-clingy": [
+      "澄雪",
+      "席雾"
+    ],
+    "nurse-cold": [
+      "澄棠",
+      "项回"
+    ],
+    "nurse-imp": [
+      "澄川",
+      "萧星"
+    ],
+    "nurse-reliable": [
+      "澄舟",
+      "辛月"
+    ],
+    "florist-tsundere": [
+      "烬",
+      "徐棠"
+    ],
+    "florist-gentle": [
+      "烬月",
+      "薛栀"
+    ],
+    "florist-snark": [
+      "烬音",
+      "严鹿"
+    ],
+    "florist-airhead": [
+      "烬奈",
+      "晏溪"
+    ],
+    "florist-schemer": [
+      "烬夏",
+      "杨澜"
+    ],
+    "florist-genki": [
+      "烬羽",
+      "姚晚"
+    ],
+    "florist-clingy": [
+      "烬雪",
+      "应遥"
+    ],
+    "florist-cold": [
+      "烬棠",
+      "游予"
+    ],
+    "florist-imp": [
+      "烬川",
+      "于淮"
+    ],
+    "florist-reliable": [
+      "烬舟",
+      "余渡"
+    ],
+    "librarian-tsundere": [
+      "黎",
+      "章言"
+    ],
+    "librarian-gentle": [
+      "黎月",
+      "赵叙"
+    ],
+    "librarian-snark": [
+      "黎音",
+      "甄墨"
+    ],
+    "librarian-airhead": [
+      "黎奈",
+      "郑祈"
+    ],
+    "librarian-schemer": [
+      "黎夏",
+      "钟霜"
+    ],
+    "librarian-genki": [
+      "黎羽",
+      "朱微"
+    ],
+    "librarian-clingy": [
+      "黎雪",
+      "诸屿"
+    ],
+    "librarian-cold": [
+      "黎棠",
+      "祝澈"
+    ],
+    "librarian-imp": [
+      "黎川",
+      "庄朵"
+    ],
+    "librarian-reliable": [
+      "黎舟",
+      "卓荔"
+    ],
+    "fortune-tsundere": [
+      "霁",
+      "俞时"
+    ],
+    "fortune-gentle": [
+      "霁月",
+      "虞燃"
+    ],
+    "fortune-snark": [
+      "霁音",
+      "袁川"
+    ],
+    "fortune-airhead": [
+      "霁奈",
+      "岳然"
+    ],
+    "fortune-schemer": [
+      "霁夏",
+      "云言"
+    ],
+    "fortune-genki": [
+      "霁羽",
+      "曾叙"
+    ],
+    "fortune-clingy": [
+      "霁雪",
+      "翟墨"
+    ],
+    "fortune-cold": [
+      "霁棠",
+      "詹祈"
+    ],
+    "fortune-imp": [
+      "霁川",
+      "张霜"
+    ],
+    "fortune-reliable": [
+      "霁舟",
+      "章微"
+    ],
+    "reporter-tsundere": [
+      "栖",
+      "屠然"
+    ],
+    "reporter-gentle": [
+      "栖月",
+      "万言"
+    ],
+    "reporter-snark": [
+      "栖音",
+      "汪叙"
+    ],
+    "reporter-airhead": [
+      "栖奈",
+      "王墨"
+    ],
+    "reporter-schemer": [
+      "栖夏",
+      "韦祈"
+    ],
+    "reporter-genki": [
+      "栖羽",
+      "文霜"
+    ],
+    "reporter-clingy": [
+      "栖雪",
+      "翁微"
+    ],
+    "reporter-cold": [
+      "栖棠",
+      "巫屿"
+    ],
+    "reporter-imp": [
+      "栖川",
+      "邬澈"
+    ],
+    "reporter-reliable": [
+      "栖舟",
+      "吴朵"
+    ],
+    "photographer-tsundere": [
+      "焰",
+      "闻星"
+    ],
+    "photographer-gentle": [
+      "焰月",
+      "黎月"
+    ],
+    "photographer-snark": [
+      "焰音",
+      "苏风"
+    ],
+    "photographer-airhead": [
+      "焰奈",
+      "程雨"
+    ],
+    "photographer-schemer": [
+      "焰夏",
+      "唐雪"
+    ],
+    "photographer-genki": [
+      "焰羽",
+      "叶露"
+    ],
+    "photographer-clingy": [
+      "焰雪",
+      "周晨"
+    ],
+    "photographer-cold": [
+      "焰棠",
+      "季曦"
+    ],
+    "photographer-imp": [
+      "焰川",
+      "白晴"
+    ],
+    "photographer-reliable": [
+      "焰舟",
+      "秦岚"
+    ],
+    "illustrator-tsundere": [
+      "溯",
+      "潘舟"
+    ],
+    "illustrator-gentle": [
+      "溯月",
+      "庞棠"
+    ],
+    "illustrator-snark": [
+      "溯音",
+      "彭栀"
+    ],
+    "illustrator-airhead": [
+      "溯奈",
+      "祁鹿"
+    ],
+    "illustrator-schemer": [
+      "溯夏",
+      "钱溪"
+    ],
+    "illustrator-genki": [
+      "溯羽",
+      "强澜"
+    ],
+    "illustrator-clingy": [
+      "溯雪",
+      "邱晚"
+    ],
+    "illustrator-cold": [
+      "溯棠",
+      "曲遥"
+    ],
+    "illustrator-imp": [
+      "溯川",
+      "桑予"
+    ],
+    "illustrator-reliable": [
+      "溯舟",
+      "邵淮"
+    ],
+    "musician-tsundere": [
+      "禾",
+      "汤言"
+    ],
+    "musician-gentle": [
+      "禾月",
+      "佟叙"
+    ],
+    "musician-snark": [
+      "禾音",
+      "童墨"
+    ],
+    "musician-airhead": [
+      "禾奈",
+      "涂祈"
+    ],
+    "musician-schemer": [
+      "禾夏",
+      "屠霜"
+    ],
+    "musician-genki": [
+      "禾羽",
+      "万微"
+    ],
+    "musician-clingy": [
+      "禾雪",
+      "汪屿"
+    ],
+    "musician-cold": [
+      "禾棠",
+      "王澈"
+    ],
+    "musician-imp": [
+      "禾川",
+      "韦朵"
+    ],
+    "musician-reliable": [
+      "禾舟",
+      "文荔"
+    ],
+    "bartender-tsundere": [
+      "珞",
+      "陶梨"
+    ],
+    "bartender-gentle": [
+      "珞月",
+      "柏眠"
+    ],
+    "bartender-snark": [
+      "珞音",
+      "岑雾"
+    ],
+    "bartender-airhead": [
+      "珞奈",
+      "池回"
+    ],
+    "bartender-schemer": [
+      "珞夏",
+      "褚星"
+    ],
+    "bartender-genki": [
+      "珞羽",
+      "窦月"
+    ],
+    "bartender-clingy": [
+      "珞雪",
+      "樊风"
+    ],
+    "bartender-cold": [
+      "珞棠",
+      "管雨"
+    ],
+    "bartender-imp": [
+      "珞川",
+      "霍雪"
+    ],
+    "bartender-reliable": [
+      "珞舟",
+      "嵇露"
+    ],
+    "baker-tsundere": [
+      "珉",
+      "闻予"
+    ],
+    "baker-gentle": [
+      "珉月",
+      "黎淮"
+    ],
+    "baker-snark": [
+      "珉音",
+      "苏渡"
+    ],
+    "baker-airhead": [
+      "珉奈",
+      "程时"
+    ],
+    "baker-schemer": [
+      "珉夏",
+      "唐燃"
+    ],
+    "baker-genki": [
+      "珉羽",
+      "叶川"
+    ],
+    "baker-clingy": [
+      "珉雪",
+      "周然"
+    ],
+    "baker-cold": [
+      "珉棠",
+      "季言"
+    ],
+    "baker-imp": [
+      "珉川",
+      "白叙"
+    ],
+    "baker-reliable": [
+      "珉舟",
+      "秦墨"
+    ],
+    "gardener-tsundere": [
+      "玦",
+      "宋曦"
+    ],
+    "gardener-gentle": [
+      "玦月",
+      "裴晴"
+    ],
+    "gardener-snark": [
+      "玦音",
+      "谢岚"
+    ],
+    "gardener-airhead": [
+      "玦奈",
+      "闻知"
+    ],
+    "gardener-schemer": [
+      "玦夏",
+      "黎砚"
+    ],
+    "gardener-genki": [
+      "玦羽",
+      "苏舟"
+    ],
+    "gardener-clingy": [
+      "玦雪",
+      "程棠"
+    ],
+    "gardener-cold": [
+      "玦棠",
+      "唐栀"
+    ],
+    "gardener-imp": [
+      "玦川",
+      "叶鹿"
+    ],
+    "gardener-reliable": [
+      "玦舟",
+      "周溪"
+    ],
+    "coder-tsundere": [
+      "荞",
+      "薛遥"
+    ],
+    "coder-gentle": [
+      "荞月",
+      "严予"
+    ],
+    "coder-snark": [
+      "荞音",
+      "晏淮"
+    ],
+    "coder-airhead": [
+      "荞奈",
+      "杨渡"
+    ],
+    "coder-schemer": [
+      "荞夏",
+      "姚时"
+    ],
+    "coder-genki": [
+      "荞羽",
+      "应燃"
+    ],
+    "coder-clingy": [
+      "荞雪",
+      "游川"
+    ],
+    "coder-cold": [
+      "荞棠",
+      "于然"
+    ],
+    "coder-imp": [
+      "荞川",
+      "余言"
+    ],
+    "coder-reliable": [
+      "荞舟",
+      "俞叙"
+    ],
+    "lawyer-tsundere": [
+      "荷",
+      "余澜"
+    ],
+    "lawyer-gentle": [
+      "荷月",
+      "俞晚"
+    ],
+    "lawyer-snark": [
+      "荷音",
+      "虞遥"
+    ],
+    "lawyer-airhead": [
+      "荷奈",
+      "袁予"
+    ],
+    "lawyer-schemer": [
+      "荷夏",
+      "岳淮"
+    ],
+    "lawyer-genki": [
+      "荷羽",
+      "云渡"
+    ],
+    "lawyer-clingy": [
+      "荷雪",
+      "曾时"
+    ],
+    "lawyer-cold": [
+      "荷棠",
+      "翟燃"
+    ],
+    "lawyer-imp": [
+      "荷川",
+      "詹川"
+    ],
+    "lawyer-reliable": [
+      "荷舟",
+      "张然"
+    ],
+    "vet-tsundere": [
+      "荼",
+      "涂予"
+    ],
+    "vet-gentle": [
+      "荼月",
+      "屠淮"
+    ],
+    "vet-snark": [
+      "荼音",
+      "万渡"
+    ],
+    "vet-airhead": [
+      "荼奈",
+      "汪时"
+    ],
+    "vet-schemer": [
+      "荼夏",
+      "王燃"
+    ],
+    "vet-genki": [
+      "荼羽",
+      "韦川"
+    ],
+    "vet-clingy": [
+      "荼雪",
+      "文然"
+    ],
+    "vet-cold": [
+      "荼棠",
+      "翁言"
+    ],
+    "vet-imp": [
+      "荼川",
+      "巫叙"
+    ],
+    "vet-reliable": [
+      "荼舟",
+      "邬墨"
+    ],
+    "postman-tsundere": [
+      "砚",
+      "卫予"
+    ],
+    "postman-gentle": [
+      "砚月",
+      "陶淮"
+    ],
+    "postman-snark": [
+      "砚音",
+      "柏渡"
+    ],
+    "postman-airhead": [
+      "砚奈",
+      "岑时"
+    ],
+    "postman-schemer": [
+      "砚夏",
+      "池燃"
+    ],
+    "postman-genki": [
+      "砚羽",
+      "褚川"
+    ],
+    "postman-clingy": [
+      "砚雪",
+      "窦然"
+    ],
+    "postman-cold": [
+      "砚棠",
+      "樊言"
+    ],
+    "postman-imp": [
+      "砚川",
+      "管叙"
+    ],
+    "postman-reliable": [
+      "砚舟",
+      "霍墨"
+    ],
+    "surfer-tsundere": [
+      "笙",
+      "黎梨"
+    ],
+    "surfer-gentle": [
+      "笙月",
+      "苏眠"
+    ],
+    "surfer-snark": [
+      "笙音",
+      "程雾"
+    ],
+    "surfer-airhead": [
+      "笙奈",
+      "唐回"
+    ],
+    "surfer-schemer": [
+      "笙夏",
+      "叶星"
+    ],
+    "surfer-genki": [
+      "笙羽",
+      "周月"
+    ],
+    "surfer-clingy": [
+      "笙雪",
+      "季风"
+    ],
+    "surfer-cold": [
+      "笙棠",
+      "白雨"
+    ],
+    "surfer-imp": [
+      "笙川",
+      "秦雪"
+    ],
+    "surfer-reliable": [
+      "笙舟",
+      "韩露"
+    ],
+    "guide-tsundere": [
+      "屿",
+      "傅言"
+    ],
+    "guide-gentle": [
+      "屿月",
+      "纪叙"
+    ],
+    "guide-snark": [
+      "屿音",
+      "蒋墨"
+    ],
+    "guide-airhead": [
+      "屿奈",
+      "卫祈"
+    ],
+    "guide-schemer": [
+      "屿夏",
+      "陶霜"
+    ],
+    "guide-genki": [
+      "屿羽",
+      "柏微"
+    ],
+    "guide-clingy": [
+      "屿雪",
+      "岑屿"
+    ],
+    "guide-cold": [
+      "屿棠",
+      "池澈"
+    ],
+    "guide-imp": [
+      "屿川",
+      "褚朵"
+    ],
+    "guide-reliable": [
+      "屿舟",
+      "窦荔"
+    ],
+    "craftsman-tsundere": [
+      "柏",
+      "甄满"
+    ],
+    "craftsman-gentle": [
+      "柏月",
+      "郑枝"
+    ],
+    "craftsman-snark": [
+      "柏音",
+      "钟梨"
+    ],
+    "craftsman-airhead": [
+      "柏奈",
+      "朱眠"
+    ],
+    "craftsman-schemer": [
+      "柏夏",
+      "诸雾"
+    ],
+    "craftsman-genki": [
+      "柏羽",
+      "祝回"
+    ],
+    "craftsman-clingy": [
+      "柏雪",
+      "庄星"
+    ],
+    "craftsman-cold": [
+      "柏棠",
+      "卓月"
+    ],
+    "craftsman-imp": [
+      "柏川",
+      "宗风"
+    ],
+    "craftsman-reliable": [
+      "柏舟",
+      "邹雨"
+    ],
+    "tea-tsundere": [
+      "桓",
+      "陶溪"
+    ],
+    "tea-gentle": [
+      "桓月",
+      "柏澜"
+    ],
+    "tea-snark": [
+      "桓音",
+      "岑晚"
+    ],
+    "tea-airhead": [
+      "桓奈",
+      "池遥"
+    ],
+    "tea-schemer": [
+      "桓夏",
+      "褚予"
+    ],
+    "tea-genki": [
+      "桓羽",
+      "窦淮"
+    ],
+    "tea-clingy": [
+      "桓雪",
+      "樊渡"
+    ],
+    "tea-cold": [
+      "桓棠",
+      "管时"
+    ],
+    "tea-imp": [
+      "桓川",
+      "霍燃"
+    ],
+    "tea-reliable": [
+      "桓舟",
+      "嵇川"
+    ],
+    "voice-tsundere": [
+      "沅",
+      "吴祈"
+    ],
+    "voice-gentle": [
+      "沅月",
+      "伍霜"
+    ],
+    "voice-snark": [
+      "沅音",
+      "武微"
+    ],
+    "voice-airhead": [
+      "沅奈",
+      "席屿"
+    ],
+    "voice-schemer": [
+      "沅夏",
+      "项澈"
+    ],
+    "voice-genki": [
+      "沅羽",
+      "萧朵"
+    ],
+    "voice-clingy": [
+      "沅雪",
+      "辛荔"
+    ],
+    "voice-cold": [
+      "沅棠",
+      "邢照"
+    ],
+    "voice-imp": [
+      "沅川",
+      "徐葵"
+    ],
+    "voice-reliable": [
+      "沅舟",
+      "薛满"
+    ],
+    "stage-tsundere": [
+      "洛",
+      "钟淮"
+    ],
+    "stage-gentle": [
+      "洛月",
+      "朱渡"
+    ],
+    "stage-snark": [
+      "洛音",
+      "诸时"
+    ],
+    "stage-airhead": [
+      "洛奈",
+      "祝燃"
+    ],
+    "stage-schemer": [
+      "洛夏",
+      "庄川"
+    ],
+    "stage-genki": [
+      "洛羽",
+      "卓然"
+    ],
+    "stage-clingy": [
+      "洛雪",
+      "宗言"
+    ],
+    "stage-cold": [
+      "洛棠",
+      "邹叙"
+    ],
+    "stage-imp": [
+      "洛川",
+      "左墨"
+    ],
+    "stage-reliable": [
+      "洛舟",
+      "沈祈"
+    ],
+    "astronomer-tsundere": [
+      "淮",
+      "沈知"
+    ],
+    "astronomer-gentle": [
+      "淮月",
+      "顾砚"
+    ],
+    "astronomer-snark": [
+      "淮音",
+      "林舟"
+    ],
+    "astronomer-airhead": [
+      "淮奈",
+      "陆棠"
+    ],
+    "astronomer-schemer": [
+      "淮夏",
+      "江栀"
+    ],
+    "astronomer-genki": [
+      "淮羽",
+      "许鹿"
+    ],
+    "astronomer-clingy": [
+      "淮雪",
+      "温溪"
+    ],
+    "astronomer-cold": [
+      "淮棠",
+      "宋澜"
+    ],
+    "astronomer-imp": [
+      "淮川",
+      "裴晚"
+    ],
+    "astronomer-reliable": [
+      "淮舟",
+      "谢遥"
+    ],
+    "restorer-tsundere": [
+      "澈",
+      "晏月"
+    ],
+    "restorer-gentle": [
+      "澈月",
+      "杨风"
+    ],
+    "restorer-snark": [
+      "澈音",
+      "姚雨"
+    ],
+    "restorer-airhead": [
+      "澈奈",
+      "应雪"
+    ],
+    "restorer-schemer": [
+      "澈夏",
+      "游露"
+    ],
+    "restorer-genki": [
+      "澈羽",
+      "于晨"
+    ],
+    "restorer-clingy": [
+      "澈雪",
+      "余曦"
+    ],
+    "restorer-cold": [
+      "澈棠",
+      "俞晴"
+    ],
+    "restorer-imp": [
+      "澈川",
+      "虞岚"
+    ],
+    "restorer-reliable": [
+      "澈舟",
+      "袁知"
+    ],
+    "watchmaker-tsundere": [
+      "炀",
+      "严枝"
+    ],
+    "watchmaker-gentle": [
+      "炀月",
+      "晏梨"
+    ],
+    "watchmaker-snark": [
+      "炀音",
+      "杨眠"
+    ],
+    "watchmaker-airhead": [
+      "炀奈",
+      "姚雾"
+    ],
+    "watchmaker-schemer": [
+      "炀夏",
+      "应回"
+    ],
+    "watchmaker-genki": [
+      "炀羽",
+      "游星"
+    ],
+    "watchmaker-clingy": [
+      "炀雪",
+      "于月"
+    ],
+    "watchmaker-cold": [
+      "炀棠",
+      "余风"
+    ],
+    "watchmaker-imp": [
+      "炀川",
+      "俞雨"
+    ],
+    "watchmaker-reliable": [
+      "炀舟",
+      "虞雪"
+    ],
+    "tailor-tsundere": [
+      "灼",
+      "罗晨"
+    ],
+    "tailor-gentle": [
+      "灼月",
+      "魏曦"
+    ],
+    "tailor-snark": [
+      "灼音",
+      "夏晴"
+    ],
+    "tailor-airhead": [
+      "灼奈",
+      "乔岚"
+    ],
+    "tailor-schemer": [
+      "灼夏",
+      "简知"
+    ],
+    "tailor-genki": [
+      "灼羽",
+      "宁砚"
+    ],
+    "tailor-clingy": [
+      "灼雪",
+      "傅舟"
+    ],
+    "tailor-cold": [
+      "灼棠",
+      "纪棠"
+    ],
+    "tailor-imp": [
+      "灼川",
+      "蒋栀"
+    ],
+    "tailor-reliable": [
+      "灼舟",
+      "卫鹿"
+    ],
+    "perfumer-tsundere": [
+      "珩",
+      "余舟"
+    ],
+    "perfumer-gentle": [
+      "珩月",
+      "俞棠"
+    ],
+    "perfumer-snark": [
+      "珩音",
+      "虞栀"
+    ],
+    "perfumer-airhead": [
+      "珩奈",
+      "袁鹿"
+    ],
+    "perfumer-schemer": [
+      "珩夏",
+      "岳溪"
+    ],
+    "perfumer-genki": [
+      "珩羽",
+      "云澜"
+    ],
+    "perfumer-clingy": [
+      "珩雪",
+      "曾晚"
+    ],
+    "perfumer-cold": [
+      "珩棠",
+      "翟遥"
+    ],
+    "perfumer-imp": [
+      "珩川",
+      "詹予"
+    ],
+    "perfumer-reliable": [
+      "珩舟",
+      "张淮"
+    ],
+    "racer-tsundere": [
+      "珂",
+      "钱晨"
+    ],
+    "racer-gentle": [
+      "珂月",
+      "强曦"
+    ],
+    "racer-snark": [
+      "珂音",
+      "邱晴"
+    ],
+    "racer-airhead": [
+      "珂奈",
+      "曲岚"
+    ],
+    "racer-schemer": [
+      "珂夏",
+      "桑知"
+    ],
+    "racer-genki": [
+      "珂羽",
+      "邵砚"
+    ],
+    "racer-clingy": [
+      "珂雪",
+      "佘舟"
+    ],
+    "racer-cold": [
+      "珂棠",
+      "申棠"
+    ],
+    "racer-imp": [
+      "珂川",
+      "盛栀"
+    ],
+    "racer-reliable": [
+      "珂舟",
+      "石鹿"
+    ],
+    "pilot-tsundere": [
+      "瑄",
+      "韩知"
+    ],
+    "pilot-gentle": [
+      "瑄月",
+      "罗砚"
+    ],
+    "pilot-snark": [
+      "瑄音",
+      "魏舟"
+    ],
+    "pilot-airhead": [
+      "瑄奈",
+      "夏棠"
+    ],
+    "pilot-schemer": [
+      "瑄夏",
+      "乔栀"
+    ],
+    "pilot-genki": [
+      "瑄羽",
+      "简鹿"
+    ],
+    "pilot-clingy": [
+      "瑄雪",
+      "宁溪"
+    ],
+    "pilot-cold": [
+      "瑄棠",
+      "傅澜"
+    ],
+    "pilot-imp": [
+      "瑄川",
+      "纪晚"
+    ],
+    "pilot-reliable": [
+      "瑄舟",
+      "蒋遥"
+    ],
+    "radio-tsundere": [
+      "疏",
+      "舒溪"
+    ],
+    "radio-gentle": [
+      "疏月",
+      "帅澜"
+    ],
+    "radio-snark": [
+      "疏音",
+      "司晚"
+    ],
+    "radio-airhead": [
+      "疏奈",
+      "松遥"
+    ],
+    "radio-schemer": [
+      "疏夏",
+      "谈予"
+    ],
+    "radio-genki": [
+      "疏羽",
+      "谭淮"
+    ],
+    "radio-clingy": [
+      "疏雪",
+      "汤渡"
+    ],
+    "radio-cold": [
+      "疏棠",
+      "佟时"
+    ],
+    "radio-imp": [
+      "疏川",
+      "童燃"
+    ],
+    "radio-reliable": [
+      "疏舟",
+      "涂川"
+    ],
+    "researcher-tsundere": [
+      "稷",
+      "伍荔"
+    ],
+    "researcher-gentle": [
+      "稷月",
+      "武照"
+    ],
+    "researcher-snark": [
+      "稷音",
+      "席葵"
+    ],
+    "researcher-airhead": [
+      "稷奈",
+      "项满"
+    ],
+    "researcher-schemer": [
+      "稷夏",
+      "萧枝"
+    ],
+    "researcher-genki": [
+      "稷羽",
+      "辛梨"
+    ],
+    "researcher-clingy": [
+      "稷雪",
+      "邢眠"
+    ],
+    "researcher-cold": [
+      "稷棠",
+      "徐雾"
+    ],
+    "researcher-imp": [
+      "稷川",
+      "薛回"
+    ],
+    "researcher-reliable": [
+      "稷舟",
+      "严星"
+    ],
+    "potter-tsundere": [
+      "釉",
+      "嵇祈"
+    ],
+    "potter-gentle": [
+      "釉月",
+      "靳霜"
+    ],
+    "potter-snark": [
+      "釉音",
+      "阚微"
+    ],
+    "potter-airhead": [
+      "釉奈",
+      "柯屿"
+    ],
+    "potter-schemer": [
+      "釉夏",
+      "匡澈"
+    ],
+    "potter-genki": [
+      "釉羽",
+      "冷朵"
+    ],
+    "potter-clingy": [
+      "釉雪",
+      "凌荔"
+    ],
+    "potter-cold": [
+      "釉棠",
+      "卢照"
+    ],
+    "potter-imp": [
+      "釉川",
+      "骆葵"
+    ],
+    "potter-reliable": [
+      "釉舟",
+      "马满"
+    ],
+    "diver-tsundere": [
+      "潜",
+      "秦燃"
+    ],
+    "diver-gentle": [
+      "潜月",
+      "韩川"
+    ],
+    "diver-snark": [
+      "潜音",
+      "罗然"
+    ],
+    "diver-airhead": [
+      "潜奈",
+      "魏言"
+    ],
+    "diver-schemer": [
+      "潜夏",
+      "夏叙"
+    ],
+    "diver-genki": [
+      "潜羽",
+      "乔墨"
+    ],
+    "diver-clingy": [
+      "潜雪",
+      "简祈"
+    ],
+    "diver-cold": [
+      "潜棠",
+      "宁霜"
+    ],
+    "diver-imp": [
+      "潜川",
+      "傅微"
+    ],
+    "diver-reliable": [
+      "潜舟",
+      "纪屿"
+    ],
+    "conductor-tsundere": [
+      "轨",
+      "虞墨"
+    ],
+    "conductor-gentle": [
+      "轨月",
+      "袁祈"
+    ],
+    "conductor-snark": [
+      "轨音",
+      "岳霜"
+    ],
+    "conductor-airhead": [
+      "轨奈",
+      "云微"
+    ],
+    "conductor-schemer": [
+      "轨夏",
+      "曾屿"
+    ],
+    "conductor-genki": [
+      "轨羽",
+      "翟澈"
+    ],
+    "conductor-clingy": [
+      "轨雪",
+      "詹朵"
+    ],
+    "conductor-cold": [
+      "轨棠",
+      "张荔"
+    ],
+    "conductor-imp": [
+      "轨川",
+      "章照"
+    ],
+    "conductor-reliable": [
+      "轨舟",
+      "赵葵"
+    ],
+    "firefighter-tsundere": [
+      "焱",
+      "巫雨"
+    ],
+    "firefighter-gentle": [
+      "焱月",
+      "邬雪"
+    ],
+    "firefighter-snark": [
+      "焱音",
+      "吴露"
+    ],
+    "firefighter-airhead": [
+      "焱奈",
+      "伍晨"
+    ],
+    "firefighter-schemer": [
+      "焱夏",
+      "武曦"
+    ],
+    "firefighter-genki": [
+      "焱羽",
+      "席晴"
+    ],
+    "firefighter-clingy": [
+      "焱雪",
+      "项岚"
+    ],
+    "firefighter-cold": [
+      "焱棠",
+      "萧知"
+    ],
+    "firefighter-imp": [
+      "焱川",
+      "辛砚"
+    ],
+    "firefighter-reliable": [
+      "焱舟",
+      "邢舟"
+    ],
+    "mangaka-tsundere": [
+      "墨",
+      "季舟"
+    ],
+    "mangaka-gentle": [
+      "墨月",
+      "白棠"
+    ],
+    "mangaka-snark": [
+      "墨音",
+      "秦栀"
+    ],
+    "mangaka-airhead": [
+      "墨奈",
+      "韩鹿"
+    ],
+    "mangaka-schemer": [
+      "墨夏",
+      "罗溪"
+    ],
+    "mangaka-genki": [
+      "墨羽",
+      "魏澜"
+    ],
+    "mangaka-clingy": [
+      "墨雪",
+      "夏晚"
+    ],
+    "mangaka-cold": [
+      "墨棠",
+      "乔遥"
+    ],
+    "mangaka-imp": [
+      "墨川",
+      "简予"
+    ],
+    "mangaka-reliable": [
+      "墨舟",
+      "宁淮"
+    ],
+    "botanist-tsundere": [
+      "蕨",
+      "靳晨"
+    ],
+    "botanist-gentle": [
+      "蕨月",
+      "阚曦"
+    ],
+    "botanist-snark": [
+      "蕨音",
+      "柯晴"
+    ],
+    "botanist-airhead": [
+      "蕨奈",
+      "匡岚"
+    ],
+    "botanist-schemer": [
+      "蕨夏",
+      "冷知"
+    ],
+    "botanist-genki": [
+      "蕨羽",
+      "凌砚"
+    ],
+    "botanist-clingy": [
+      "蕨雪",
+      "卢舟"
+    ],
+    "botanist-cold": [
+      "蕨棠",
+      "骆棠"
+    ],
+    "botanist-imp": [
+      "蕨川",
+      "马栀"
+    ],
+    "botanist-reliable": [
+      "蕨舟",
+      "梅鹿"
+    ],
+    "innkeeper-tsundere": [
+      "岫",
+      "佘渡"
+    ],
+    "innkeeper-gentle": [
+      "岫月",
+      "申时"
+    ],
+    "innkeeper-snark": [
+      "岫音",
+      "盛燃"
+    ],
+    "innkeeper-airhead": [
+      "岫奈",
+      "石川"
+    ],
+    "innkeeper-schemer": [
+      "岫夏",
+      "舒然"
+    ],
+    "innkeeper-genki": [
+      "岫羽",
+      "帅言"
+    ],
+    "innkeeper-clingy": [
+      "岫雪",
+      "司叙"
+    ],
+    "innkeeper-cold": [
+      "岫棠",
+      "松墨"
+    ],
+    "innkeeper-imp": [
+      "岫川",
+      "谈祈"
+    ],
+    "innkeeper-reliable": [
+      "岫舟",
+      "谭霜"
+    ],
+    "magical-tsundere": [
+      "蝶",
+      "宗照"
+    ],
+    "magical-gentle": [
+      "蝶月",
+      "邹葵"
+    ],
+    "magical-snark": [
+      "蝶音",
+      "左满"
+    ],
+    "magical-airhead": [
+      "蝶奈",
+      "沈枝"
+    ],
+    "magical-schemer": [
+      "蝶夏",
+      "顾梨"
+    ],
+    "magical-genki": [
+      "蝶羽",
+      "林眠"
+    ],
+    "magical-clingy": [
+      "蝶雪",
+      "陆雾"
+    ],
+    "magical-cold": [
+      "蝶棠",
+      "江回"
+    ],
+    "magical-imp": [
+      "蝶川",
+      "许星"
+    ],
+    "magical-reliable": [
+      "蝶舟",
+      "温月"
+    ],
+    "mecha-pilot-tsundere": [
+      "零",
+      "凌梨"
+    ],
+    "mecha-pilot-gentle": [
+      "零月",
+      "卢眠"
+    ],
+    "mecha-pilot-snark": [
+      "零音",
+      "骆雾"
+    ],
+    "mecha-pilot-airhead": [
+      "零奈",
+      "马回"
+    ],
+    "mecha-pilot-schemer": [
+      "零夏",
+      "梅星"
+    ],
+    "mecha-pilot-genki": [
+      "零羽",
+      "孟月"
+    ],
+    "mecha-pilot-clingy": [
+      "零雪",
+      "米风"
+    ],
+    "mecha-pilot-cold": [
+      "零棠",
+      "苗雨"
+    ],
+    "mecha-pilot-imp": [
+      "零川",
+      "莫雪"
+    ],
+    "mecha-pilot-reliable": [
+      "零舟",
+      "穆露"
+    ],
+    "cyber-ninja-tsundere": [
+      "鸦",
+      "左雪"
+    ],
+    "cyber-ninja-gentle": [
+      "鸦月",
+      "沈露"
+    ],
+    "cyber-ninja-snark": [
+      "鸦音",
+      "顾晨"
+    ],
+    "cyber-ninja-airhead": [
+      "鸦奈",
+      "林曦"
+    ],
+    "cyber-ninja-schemer": [
+      "鸦夏",
+      "陆晴"
+    ],
+    "cyber-ninja-genki": [
+      "鸦羽",
+      "江岚"
+    ],
+    "cyber-ninja-clingy": [
+      "鸦雪",
+      "许知"
+    ],
+    "cyber-ninja-cold": [
+      "鸦棠",
+      "温砚"
+    ],
+    "cyber-ninja-imp": [
+      "鸦川",
+      "宋舟"
+    ],
+    "cyber-ninja-reliable": [
+      "鸦舟",
+      "裴棠"
+    ],
+    "hunter-tsundere": [
+      "猎",
+      "樊照"
+    ],
+    "hunter-gentle": [
+      "猎月",
+      "管葵"
+    ],
+    "hunter-snark": [
+      "猎音",
+      "霍满"
+    ],
+    "hunter-airhead": [
+      "猎奈",
+      "嵇枝"
+    ],
+    "hunter-schemer": [
+      "猎夏",
+      "靳梨"
+    ],
+    "hunter-genki": [
+      "猎羽",
+      "阚眠"
+    ],
+    "hunter-clingy": [
+      "猎雪",
+      "柯雾"
+    ],
+    "hunter-cold": [
+      "猎棠",
+      "匡回"
+    ],
+    "hunter-imp": [
+      "猎川",
+      "冷星"
+    ],
+    "hunter-reliable": [
+      "猎舟",
+      "凌月"
+    ],
+    "onmyoji-tsundere": [
+      "咒",
+      "邢风"
+    ],
+    "onmyoji-gentle": [
+      "咒月",
+      "徐雨"
+    ],
+    "onmyoji-snark": [
+      "咒音",
+      "薛雪"
+    ],
+    "onmyoji-airhead": [
+      "咒奈",
+      "严露"
+    ],
+    "onmyoji-schemer": [
+      "咒夏",
+      "晏晨"
+    ],
+    "onmyoji-genki": [
+      "咒羽",
+      "杨曦"
+    ],
+    "onmyoji-clingy": [
+      "咒雪",
+      "姚晴"
+    ],
+    "onmyoji-cold": [
+      "咒棠",
+      "应岚"
+    ],
+    "onmyoji-imp": [
+      "咒川",
+      "游知"
+    ],
+    "onmyoji-reliable": [
+      "咒舟",
+      "于砚"
+    ],
+    "dragon-princess-tsundere": [
+      "鳞",
+      "祁予"
+    ],
+    "dragon-princess-gentle": [
+      "鳞月",
+      "钱淮"
+    ],
+    "dragon-princess-snark": [
+      "鳞音",
+      "强渡"
+    ],
+    "dragon-princess-airhead": [
+      "鳞奈",
+      "邱时"
+    ],
+    "dragon-princess-schemer": [
+      "鳞夏",
+      "曲燃"
+    ],
+    "dragon-princess-genki": [
+      "鳞羽",
+      "桑川"
+    ],
+    "dragon-princess-clingy": [
+      "鳞雪",
+      "邵然"
+    ],
+    "dragon-princess-cold": [
+      "鳞棠",
+      "佘言"
+    ],
+    "dragon-princess-imp": [
+      "鳞川",
+      "申叙"
+    ],
+    "dragon-princess-reliable": [
+      "鳞舟",
+      "盛墨"
+    ],
+    "star-idol-tsundere": [
+      "星",
+      "顾霜"
+    ],
+    "star-idol-gentle": [
+      "星月",
+      "林微"
+    ],
+    "star-idol-snark": [
+      "星音",
+      "陆屿"
+    ],
+    "star-idol-airhead": [
+      "星奈",
+      "江澈"
+    ],
+    "star-idol-schemer": [
+      "星夏",
+      "许朵"
+    ],
+    "star-idol-genki": [
+      "星羽",
+      "温荔"
+    ],
+    "star-idol-clingy": [
+      "星雪",
+      "宋照"
+    ],
+    "star-idol-cold": [
+      "星棠",
+      "裴葵"
+    ],
+    "star-idol-imp": [
+      "星川",
+      "谢满"
+    ],
+    "star-idol-reliable": [
+      "星舟",
+      "闻枝"
+    ],
+    "ghost-maid-tsundere": [
+      "幽",
+      "季澜"
+    ],
+    "ghost-maid-gentle": [
+      "幽月",
+      "白晚"
+    ],
+    "ghost-maid-snark": [
+      "幽音",
+      "秦遥"
+    ],
+    "ghost-maid-airhead": [
+      "幽奈",
+      "韩予"
+    ],
+    "ghost-maid-schemer": [
+      "幽夏",
+      "罗淮"
+    ],
+    "ghost-maid-genki": [
+      "幽羽",
+      "魏渡"
+    ],
+    "ghost-maid-clingy": [
+      "幽雪",
+      "夏时"
+    ],
+    "ghost-maid-cold": [
+      "幽棠",
+      "乔燃"
+    ],
+    "ghost-maid-imp": [
+      "幽川",
+      "简川"
+    ],
+    "ghost-maid-reliable": [
+      "幽舟",
+      "宁然"
+    ],
+    "isekai-knight-tsundere": [
+      "誓",
+      "汤微"
+    ],
+    "isekai-knight-gentle": [
+      "誓月",
+      "佟屿"
+    ],
+    "isekai-knight-snark": [
+      "誓音",
+      "童澈"
+    ],
+    "isekai-knight-airhead": [
+      "誓奈",
+      "涂朵"
+    ],
+    "isekai-knight-schemer": [
+      "誓夏",
+      "屠荔"
+    ],
+    "isekai-knight-genki": [
+      "誓羽",
+      "万照"
+    ],
+    "isekai-knight-clingy": [
+      "誓雪",
+      "汪葵"
+    ],
+    "isekai-knight-cold": [
+      "誓棠",
+      "王满"
+    ],
+    "isekai-knight-imp": [
+      "誓川",
+      "韦枝"
+    ],
+    "isekai-knight-reliable": [
+      "誓舟",
+      "文梨"
+    ],
+    "time-traveler-tsundere": [
+      "刻",
+      "孟荔"
+    ],
+    "time-traveler-gentle": [
+      "刻月",
+      "米照"
+    ],
+    "time-traveler-snark": [
+      "刻音",
+      "苗葵"
+    ],
+    "time-traveler-airhead": [
+      "刻奈",
+      "莫满"
+    ],
+    "time-traveler-schemer": [
+      "刻夏",
+      "穆枝"
+    ],
+    "time-traveler-genki": [
+      "刻羽",
+      "牛梨"
+    ],
+    "time-traveler-clingy": [
+      "刻雪",
+      "潘眠"
+    ],
+    "time-traveler-cold": [
+      "刻棠",
+      "庞雾"
+    ],
+    "time-traveler-imp": [
+      "刻川",
+      "彭回"
+    ],
+    "time-traveler-reliable": [
+      "刻舟",
+      "祁星"
+    ],
+    "cat-gentle-y": [
+      "铃芽",
+      "屠月"
+    ],
+    "cat-snark-y": [
+      "铃眠",
+      "万风"
+    ],
+    "cat-airhead-y": [
+      "铃栖",
+      "汪雨"
+    ],
+    "cat-genki-y": [
+      "铃鸢",
+      "王雪"
+    ],
+    "cat-clingy-q": [
+      "铃霁",
+      "韦露"
+    ],
+    "fox-gentle-y": [
+      "绯芽",
+      "左回"
+    ],
+    "fox-cold-y": [
+      "绯眠",
+      "沈星"
+    ],
+    "fox-airhead-y": [
+      "绯栖",
+      "顾月"
+    ],
+    "fox-reliable-y": [
+      "绯鸢",
+      "林风"
+    ],
+    "fox-tsundere-q": [
+      "绯霁",
+      "陆雨"
+    ],
+    "boy-gentle-y": [
+      "苏禾",
+      "强言"
+    ],
+    "boy-snark-y": [
+      "裴言",
+      "邱叙"
+    ],
+    "boy-cold-y": [
+      "宋迟",
+      "曲墨"
+    ],
+    "boy-airhead-y": [
+      "唐杏",
+      "桑祈"
+    ],
+    "boy-schemer-q": [
+      "江烬",
+      "邵霜"
+    ],
+    "vamp-schemer-y": [
+      "莉芽",
+      "帅舟"
+    ],
+    "vamp-gentle-y": [
+      "莉眠",
+      "司棠"
+    ],
+    "vamp-snark-y": [
+      "莉栖",
+      "松栀"
+    ],
+    "vamp-genki-y": [
+      "莉鸢",
+      "谈鹿"
+    ],
+    "vamp-cold-q": [
+      "莉霁",
+      "谭溪"
+    ],
+    "mecha-reliable-y": [
+      "诺芽",
+      "管屿"
+    ],
+    "mecha-gentle-y": [
+      "诺眠",
+      "霍澈"
+    ],
+    "mecha-snark-y": [
+      "诺栖",
+      "嵇朵"
+    ],
+    "mecha-airhead-y": [
+      "诺鸢",
+      "靳荔"
+    ],
+    "mecha-tsundere-q": [
+      "诺霁",
+      "阚照"
+    ],
+    "cat-limit-x": [
+      "铃渊",
+      "文晨"
+    ],
+    "cat-limit-a": [
+      "铃蚀",
+      "翁曦"
+    ],
+    "fox-limit-x": [
+      "绯渊",
+      "江雪"
+    ],
+    "fox-limit-a": [
+      "绯蚀",
+      "许露"
+    ],
+    "boy-limit-x": [
+      "陆沉",
+      "佘微"
+    ],
+    "boy-limit-a": [
+      "迟野",
+      "申屿"
+    ],
+    "vamp-limit-x": [
+      "莉渊",
+      "汤澜"
+    ],
+    "vamp-limit-a": [
+      "莉蚀",
+      "佟晚"
+    ],
+    "mecha-limit-x": [
+      "诺渊",
+      "柯葵"
+    ],
+    "mecha-limit-a": [
+      "诺蚀",
+      "匡满"
+    ],
+    "cat-openless": [
+      "铃渊",
+      "巫晴"
+    ],
+    "fox-openless": [
+      "绯渊",
+      "温晨"
+    ],
+    "boy-openless": [
+      "闻烬",
+      "盛澈"
+    ],
+    "vamp-openless": [
+      "莉渊",
+      "童遥"
+    ],
+    "mecha-openless": [
+      "诺渊",
+      "冷枝"
+    ],
+    "petite-tsundere": [
+      "苏晚宁",
+      "章渡"
+    ],
+    "petite-gentle": [
+      "白棠",
+      "赵时"
+    ],
+    "petite-clingy": [
+      "叶知秋",
+      "甄燃"
+    ],
+    "youth-genki": [
+      "陆星野",
+      "钟溪"
+    ],
+    "youth-cold": [
+      "顾临",
+      "朱澜"
+    ],
+    "youth-schemer": [
+      "江迟",
+      "诸晚"
+    ],
+    "petite-wenzhi": [
+      "温栀",
+      "郑川"
+    ],
+    "petite-shenlu": [
+      "沈鹿",
+      "钟然"
+    ],
+    "petite-xinghui": [
+      "许星回",
+      "朱言"
+    ],
+    "petite-qiaowu": [
+      "乔雾",
+      "诸叙"
+    ],
+    "petite-tangmian": [
+      "唐眠",
+      "祝墨"
+    ],
+    "petite-jianxia": [
+      "林见夏",
+      "庄祈"
+    ],
+    "petite-xiaoman": [
+      "程小满",
+      "卓霜"
+    ],
+    "petite-nanzhi": [
+      "顾南枝",
+      "宗微"
+    ],
+    "petite-tinglan": [
+      "宋听澜",
+      "邹屿"
+    ],
+    "petite-li": [
+      "裴梨",
+      "左澈"
+    ],
+    "petite-jiangzhao": [
+      "江照",
+      "沈朵"
+    ],
+    "petite-lukui": [
+      "陆葵",
+      "顾荔"
+    ],
+    "petite-xiazhi": [
+      "夏栀",
+      "林照"
+    ],
+    "petite-zhouwan": [
+      "周晚",
+      "陆葵"
+    ],
+    "petite-xietang": [
+      "谢棠",
+      "江满"
+    ],
+    "petite-wenxi": [
+      "闻溪",
+      "许枝"
+    ],
+    "petite-liduo": [
+      "黎朵",
+      "温梨"
+    ],
+    "petite-zhior": [
+      "宋知遥",
+      "宋眠"
+    ],
+    "petite-wenli": [
+      "温荔",
+      "裴雾"
+    ],
+    "petite-zhihui": [
+      "沈知微",
+      "谢回"
+    ],
+    "youth-chenyu": [
+      "陈屿",
+      "祝遥"
+    ],
+    "youth-xuche": [
+      "许澈",
+      "庄予"
+    ],
+    "youth-zhouyu": [
+      "周予",
+      "卓淮"
+    ],
+    "youth-linhuai": [
+      "林淮",
+      "宗渡"
+    ],
+    "youth-jiangdu": [
+      "江渡",
+      "邹时"
+    ],
+    "youth-lushi": [
+      "陆时",
+      "左燃"
+    ],
+    "youth-songran": [
+      "宋燃",
+      "沈川"
+    ],
+    "youth-tangyan": [
+      "唐砚",
+      "顾然"
+    ],
+    "youth-yezhou": [
+      "叶舟",
+      "林言"
+    ],
+    "youth-shenzhi": [
+      "沈知",
+      "陆叙"
+    ],
+    "youth-wenye": [
+      "闻野",
+      "江墨"
+    ],
+    "youth-suxing": [
+      "苏行",
+      "许祈"
+    ],
+    "youth-peichuan": [
+      "裴川",
+      "温霜"
+    ],
+    "youth-jiran": [
+      "季然",
+      "宋微"
+    ],
+    "youth-guyan": [
+      "顾言",
+      "裴屿"
+    ],
+    "youth-jiangxu": [
+      "江叙",
+      "谢澈"
+    ],
+    "youth-luozhi": [
+      "罗知",
+      "闻朵"
+    ],
+    "youth-hanye": [
+      "韩野",
+      "黎荔"
+    ],
+    "youth-qinmo": [
+      "秦墨",
+      "苏照"
+    ],
+    "youth-baiqi": [
+      "白祈",
+      "程葵"
+    ],
+    "extreme-liting": [
+      "黎听",
+      "涂枝"
+    ],
+    "extreme-shenqi": [
+      "沈栖",
+      "屠梨"
+    ],
+    "extreme-sumi": [
+      "苏弥",
+      "万眠"
+    ],
+    "extreme-xuzhuo": [
+      "许灼",
+      "汪雾"
+    ],
+    "extreme-guchen": [
+      "顾沉",
+      "王回"
+    ],
+    "extreme-luwei": [
+      "陆危",
+      "韦星"
+    ],
+    "extreme-shenjin": [
+      "沈烬",
+      "文月"
+    ],
+    "extreme-songzhi": [
+      "宋止",
+      "翁风"
+    ]
+  }
+}
